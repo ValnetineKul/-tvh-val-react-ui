@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SkeletonArea Should render correctly: SkeletonArea 1`] = `
+<span
+  class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1vqhqgo-SkeletonArea-root mui-1slz293-MuiSkeleton-root"
+  data-testid="skeleton-area"
+/>
+`;

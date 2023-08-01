@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DefinitionList Should render correctly 1`] = `
+<div
+  class="tss-8a6ilx-DefinitionList-root"
+>
+  <dl
+    class="tss-1t4x9k3-DefinitionList-definitionsList-DefinitionList-listFullWidth-DefinitionList-cols1"
+  >
+    <div
+      class="tss-1ng522i-DefinitionList-definitionWrapper"
+    >
+      <div
+        class="tss-17n4j6v-DefinitionList-definitionsItem"
+      >
+        <dt
+          class="tss-3-DefinitionList-definitionKey-ref tss-b4oe03-DefinitionList-definitionKey-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightEmphasis-ref tss-r39t1n-Typography-root-Typography-weightEmphasis-DefinitionList-content-Typography-body500"
+          >
+            prop1
+          </span>
+        </dt>
+         
+        <dd
+          class="tss-3-DefinitionList-definitionValue-ref tss-19t9kqw-DefinitionList-definitionValue-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-17s6doz-Typography-root-Typography-weightRegular-DefinitionList-content-Typography-body500"
+          >
+            value1
+          </span>
+        </dd>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+      />
+    </div>
+    <div
+      class="tss-1ng522i-DefinitionList-definitionWrapper"
+    >
+      <div
+        class="tss-17n4j6v-DefinitionList-definitionsItem"
+      >
+        <dt
+          class="tss-3-DefinitionList-definitionKey-ref tss-b4oe03-DefinitionList-definitionKey-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightEmphasis-ref tss-r39t1n-Typography-root-Typography-weightEmphasis-DefinitionList-content-Typography-body500"
+          >
+            prop2
+          </span>
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-llfu7f-Typography-root-Typography-weightRegular-DefinitionList-content-Typography-body500-Typography-secondary"
+          >
+            prop2 subtitle
+          </span>
+        </dt>
+         
+        <dd
+          class="tss-3-DefinitionList-definitionValue-ref tss-19t9kqw-DefinitionList-definitionValue-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-17s6doz-Typography-root-Typography-weightRegular-DefinitionList-content-Typography-body500"
+          >
+            value2
+          </span>
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-llfu7f-Typography-root-Typography-weightRegular-DefinitionList-content-Typography-body500-Typography-secondary"
+          >
+            value2 subtitle
+          </span>
+        </dd>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+      />
+    </div>
+    <div
+      class="tss-1ng522i-DefinitionList-definitionWrapper"
+    >
+      <div
+        class="tss-17n4j6v-DefinitionList-definitionsItem"
+      >
+        <dt
+          class="tss-3-DefinitionList-definitionKey-ref tss-b4oe03-DefinitionList-definitionKey-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightEmphasis-ref tss-r39t1n-Typography-root-Typography-weightEmphasis-DefinitionList-content-Typography-body500"
+          >
+            prop3
+          </span>
+        </dt>
+         
+        <dd
+          class="tss-3-DefinitionList-definitionValue-ref tss-19t9kqw-DefinitionList-definitionValue-DefinitionList-width50_50"
+        >
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-17s6doz-Typography-root-Typography-weightRegular-DefinitionList-content-Typography-body500"
+          >
+            value3
+          </span>
+        </dd>
+      </div>
+    </div>
+  </dl>
+</div>
+`;

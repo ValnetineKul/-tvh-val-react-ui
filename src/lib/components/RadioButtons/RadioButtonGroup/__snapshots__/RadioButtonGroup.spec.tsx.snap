@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButtonGroup Should render correctly 1`] = `
+<fieldset
+  class="MuiFormControl-root mui-1nrlq1o-MuiFormControl-root"
+>
+  <div
+    class="tss-1gvbub8-RadioButtonGroup-root MuiFormGroup-root mui-dmmspl-MuiFormGroup-root"
+    role="radiogroup"
+  >
+    Children
+  </div>
+</fieldset>
+`;

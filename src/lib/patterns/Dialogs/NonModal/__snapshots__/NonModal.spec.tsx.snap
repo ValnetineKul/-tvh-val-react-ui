@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NonModal Should render correctly 1`] = `
+<body>
+  <div>
+    <div
+      class="tss-98rpvu-Surface-root-NonModal-root-NonModal-positionBottomStart"
+      role="dialog"
+      style="webkit-transform: none; transform: none; webkit-transition: -webkit-transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms; transition: transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="tss-9x5nbr-NonModal-title"
+      >
+        <div>
+          <h4
+            class="tss-4-Typography-headerFunctional-ref tss-ptoxjj-Typography-root-Typography-headerFunctional-NonModal-titleText-Typography-h4"
+          >
+            Title
+          </h4>
+        </div>
+        <button
+          aria-label="Close dialog"
+          class="MuiButtonBase-root tss-s1ihq7-ButtonBase-root-ButtonBase-focusOut-IconButton-root-NonModal-closeButton mui-10d1a0h-MuiButtonBase-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              times.svg
+            </svg>
+          </div>
+        </button>
+      </div>
+      <div
+        class="tss-1ub92gz-NonModal-children"
+      >
+        Content
+      </div>
+    </div>
+  </div>
+</body>
+`;

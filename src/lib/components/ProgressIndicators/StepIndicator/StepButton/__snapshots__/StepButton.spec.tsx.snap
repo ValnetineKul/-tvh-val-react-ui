@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StepButton Should render correctly 1`] = `
+<div
+  aria-label="Label"
+  class="tss-2-Typography-weightRegular-ref tss-tls3jp-Typography-root-Typography-weightRegular-Tooltip-wrapper-StepButton-truncatedLabel-StepButton-tooltip-Typography-body400"
+  data-mui-internal-clone-element="true"
+>
+  <button
+    class="MuiButtonBase-root MuiStepButton-root tss-12w7rqv-StepButton-stepButton mui-mjpk2e-MuiButtonBase-root-MuiStepButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="tss-kicety-StepButton-rootLabel MuiStepLabel-root mui-ascpo7-MuiStepLabel-root"
+    >
+      <span
+        class="tss-19uxhif-StepButton-iconContainer MuiStepLabel-iconContainer mui-vnkopk-MuiStepLabel-iconContainer"
+      >
+        <span
+          class="tss-4-StepButton-icon-ref tss-1cshna-StepButton-icon-StepButton-disapledIcon"
+        >
+          <span
+            class="tss-2-Typography-weightEmphasis-ref tss-ka481l-Typography-root-Typography-weightEmphasis-Typography-body300"
+          />
+        </span>
+      </span>
+      <span
+        class="tss-f51pl8-StepButton-labelContainer MuiStepLabel-labelContainer mui-16ubnlw-MuiStepLabel-labelContainer"
+      >
+        <span
+          class="tss-2u1xn3-StepButton-label tss-4-StepButton-label-ref MuiStepLabel-label mui-rngahu-MuiStepLabel-label"
+        >
+          <span
+            class="tss-2-Typography-weightRegular-ref tss-69dlm5-Typography-root-Typography-weightRegular-StepButton-truncatedLabel-Typography-body400"
+          >
+            Label
+          </span>
+        </span>
+      </span>
+    </span>
+  </button>
+</div>
+`;

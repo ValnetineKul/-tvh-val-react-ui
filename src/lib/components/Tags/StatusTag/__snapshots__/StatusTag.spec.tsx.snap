@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatusTag Should render correctly 1`] = `
+<div
+  class="tss-amgzz2-Surface-root-StatusTag-root"
+>
+  <span
+    class="tss-0-Typography-weightEmphasis-ref tss-1g15zls-Typography-root-Typography-weightEmphasis-Typography-body500"
+  >
+    StatusTag text
+  </span>
+  <span
+    class="tss-0-Typography-weightRegular-ref tss-j8p12z-Typography-root-Typography-weightRegular-Typography-body400"
+  >
+    SubStatus text
+  </span>
+</div>
+`;

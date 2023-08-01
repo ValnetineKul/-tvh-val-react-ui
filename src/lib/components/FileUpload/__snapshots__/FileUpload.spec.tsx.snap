@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FileUpload Should render basic variant correctly 1`] = `
+<div
+  class="tss-8mvvuz-FileUpload-root tss-8-FileUpload-root-ref"
+>
+  <input
+    accept=""
+    aria-label="file-upload-input"
+    class="tss-1wy2t6d-FileUpload-input-FileUpload-basicInput"
+    tabindex="-1"
+    type="file"
+    value=""
+  />
+  <div
+    class="tss-b8icwg-FileUpload-basicFileInfo"
+  />
+  <div
+    class="tss-1thqjd9-Surface-root-Button-surface"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-1umm6q-Button-root-Button-sizeMd-Button-button mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="tss-1ltka8d-Button-startIcon MuiButton-startIcon MuiButton-iconSizeMedium mui-vbsftn-MuiButton-startIcon"
+          >
+            <div
+              class="tss-w1sjks-Icon-root-Icon-sizeMd"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                fileUpload.svg
+              </svg>
+            </div>
+          </span>
+          Upload file
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FileUpload Should render correctly 1`] = `
+<div
+  class="tss-8mvvuz-FileUpload-root tss-8-FileUpload-root-ref"
+>
+  <div
+    class="MuiButtonBase-root tss-8-FileUpload-main-ref tss-kjklz1-ButtonBase-root-ButtonBase-border-ButtonBase-focusOut-FileUpload-main mui-10d1a0h-MuiButtonBase-root"
+    role="button"
+    tabindex="-1"
+  >
+    <input
+      accept=""
+      aria-label="file-upload-input"
+      class="tss-18n9fqr-FileUpload-input"
+      type="file"
+      value=""
+    />
+    <div
+      class="tss-8-FileUpload-icon-ref tss-d7xcak-Icon-root-Icon-sizeMd-FileUpload-icon-FileUpload-block"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        fileUpload.svg
+      </svg>
+    </div>
+    <p
+      class="tss-1-Typography-weightRegular-ref tss-1i0da6j-Typography-root-Typography-weightRegular-FileUpload-block-Typography-body500"
+    >
+      Drag and drop files or click to upload
+    </p>
+  </div>
+</div>
+`;

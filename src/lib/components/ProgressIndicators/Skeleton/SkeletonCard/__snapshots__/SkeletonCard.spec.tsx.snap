@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SkeletonCard Should render correctly: SkeletonCard 1`] = `
+<div
+  class="tss-1w5d5qq-SkeletonCard-root"
+  data-testid="skeleton-card"
+/>
+`;

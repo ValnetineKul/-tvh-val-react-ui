@@ -1,0 +1,9 @@
+{
+  "shadow/300": "4px 4px 24px rgba(0, 0, 0, 0.24)",
+  "shadow/400": "0px 0px 16px rgba(0, 0, 0, 0.24)",
+  "shadow/500": "0px 0px 32px rgba(0, 0, 0, 0.32)",
+  "innerShadow.tableScrollStart": "inset 8px 0 8px rgba(0, 0, 0, 0.08)",
+  "innerShadow.tableScrollEnd": "inset -8px 0 8px rgba(0, 0, 0, 0.08)",
+  "innerShadow.tableScrollMiddle": "inset 8px 0 8px rgba(0, 0, 0, 0.08), inset -8px 0 8px rgba(0, 0, 0, 0.08)",
+  "innerShadow.tableScrollTop": "inset 0 8px 8px rgba(0, 0, 0, 0.08)"
+}

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StepIndicator Should render correctly 1`] = `
+<div
+  class="tss-42buwr-StepIndicator-root MuiStepper-root MuiStepper-horizontal MuiStepper-alternativeLabel mui-10mg1vw-MuiStepper-root"
+>
+  <div
+    class="MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel mui-n7tliy-MuiStep-root"
+  >
+    <span>
+      Children
+    </span>
+  </div>
+</div>
+`;

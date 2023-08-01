@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardAction Should render correctly 1`] = `
+<div
+  class="MuiCardActions-root MuiCardActions-spacing tss-eonqks-CardAction-root mui-1t6e9jv-MuiCardActions-root"
+>
+  Card action button
+</div>
+`;

@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabNavigation Should render correctly 1`] = `
+<div>
+  <div
+    class="tss-1trw2ln-TabNavigation-tabContainer"
+  >
+    <div
+      class="tss-v8c4vf-TabNavigation-root MuiTabs-root mui-1ujnqem-MuiTabs-root"
+    >
+      <div
+        class="MuiTabs-scrollableX MuiTabs-hideScrollbar mui-agdkjh-MuiTabs-scrollbarSize"
+        style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+      />
+      <div
+        class="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableX mui-69z67c-MuiTabs-scroller"
+        style="margin-bottom: -100px;"
+      >
+        <div
+          class="MuiTabs-flexContainer mui-heg063-MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-controls="tabContent-0"
+            aria-selected="true"
+            class="MuiButtonBase-root tss-1i7euy5-TabNavigation-tab MuiTab-root MuiTab-textColorPrimary tss-1mg7piw-TabNavigation-tabSelected Mui-selected mui-18etwwi-MuiButtonBase-root-MuiTab-root"
+            id="tabItem-0"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <hr
+              class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical MuiDivider-flexItem tss-1utnvid-Divider-root-TabNavigation-verticalDivider-TabNavigation-verticalDividerLeft-Divider-vertical mui-1tk1bks-MuiDivider-root"
+            />
+            <span
+              class="tss-0-Typography-weightEmphasis-ref tss-1g15zls-Typography-root-Typography-weightEmphasis-Typography-body500"
+            >
+              First tab
+            </span>
+            <hr
+              class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical MuiDivider-flexItem tss-1myoqk5-Divider-root-TabNavigation-verticalDivider-TabNavigation-verticalDividerRight-Divider-vertical mui-1tk1bks-MuiDivider-root"
+            />
+          </button>
+          <button
+            aria-controls="tabContent-1"
+            aria-selected="false"
+            class="MuiButtonBase-root tss-1i7euy5-TabNavigation-tab MuiTab-root MuiTab-textColorPrimary mui-18etwwi-MuiButtonBase-root-MuiTab-root"
+            id="tabItem-1"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            <div
+              class="tss-qicf1j-Badge-root"
+            >
+              <span
+                class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+              >
+                Second tab
+              </span>
+              <span
+                class="tss-k1vbve-Surface-root-Badge-badge-Badge-badge-Badge-textBadgePosition"
+              >
+                <span
+                  class="tss-0-Typography-weightEmphasis-ref tss-a8jd6j-Typography-root-Typography-weightEmphasis-Badge-badgeTypography-Typography-body300"
+                >
+                  12
+                </span>
+              </span>
+            </div>
+          </button>
+          <button
+            aria-controls="tabContent-2"
+            aria-selected="false"
+            class="MuiButtonBase-root tss-1i7euy5-TabNavigation-tab MuiTab-root MuiTab-textColorPrimary mui-18etwwi-MuiButtonBase-root-MuiTab-root"
+            id="tabItem-2"
+            role="tab"
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+            >
+              Third tab
+            </span>
+          </button>
+        </div>
+        <span
+          class="tss-cxrj87-TabNavigation-indicator MuiTabs-indicator mui-1aquho2-MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth tss-1l8gu62-Divider-root-TabNavigation-bottomDivider-Divider-horizontal mui-9mgopn-MuiDivider-root"
+    />
+  </div>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      aria-labelledby="tabItem-0"
+      class="tss-1d3h4oy-TabNavigation-tabContent"
+      id="tabContent-0"
+      role="tabpanel"
+      tabindex="0"
+    >
+      First tab content
+    </div>
+    <div
+      aria-labelledby="tabItem-1"
+      class="tss-1d3h4oy-TabNavigation-tabContent"
+      hidden=""
+      id="tabContent-1"
+      role="tabpanel"
+      tabindex="0"
+    >
+      Second tab content
+    </div>
+    <div
+      aria-labelledby="tabItem-2"
+      class="tss-1d3h4oy-TabNavigation-tabContent"
+      hidden=""
+      id="tabContent-2"
+      role="tabpanel"
+      tabindex="0"
+    >
+      Third tab content
+    </div>
+  </div>
+</div>
+`;

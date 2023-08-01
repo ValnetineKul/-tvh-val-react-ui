@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CarouselNavigation Should render correctly 1`] = `
+<div>
+  <div
+    class="tss-1dhagum-CarouselNavigation-arrowContainer-CarouselNavigation-navigationPositionBottomCenter"
+  >
+    <button
+      class="tss-srfe6n-CarouselNavigation-sliderArrow-CarouselNavigation-prevArrow"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium tss-6v8okb-CarouselNavigation-arrow mui-i4bv87-MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 38 18"
+      >
+        slider-arrow-left.svg
+      </svg>
+    </button>
+    <button
+      class="tss-1ku5cbd-CarouselNavigation-sliderArrow-CarouselNavigation-nextArrow"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium tss-6v8okb-CarouselNavigation-arrow mui-i4bv87-MuiSvgIcon-root"
+        focusable="false"
+        viewBox="0 0 60 18"
+      >
+        slider-arrow-right.svg
+      </svg>
+    </button>
+  </div>
+</div>
+`;

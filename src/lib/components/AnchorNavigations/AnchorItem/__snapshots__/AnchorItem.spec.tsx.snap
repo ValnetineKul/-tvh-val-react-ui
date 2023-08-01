@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnchorNavigation Should render correctly 1`] = `
+<a
+  class="MuiButtonBase-root MuiButtonBase-root MuiTab-root MuiTab-textColorInherit tss-1w7io4j-ButtonBase-root-ButtonBase-focusInset-AnchorItem-tabItem mui-1104c1u-MuiButtonBase-root-MuiButtonBase-root-MuiTab-root"
+  href="#linkId"
+  role="link"
+  tabindex="0"
+>
+  <div
+    aria-label="linkLabel"
+    class="tss-1-Typography-weightRegular-ref tss-ibl6fp-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+    data-mui-internal-clone-element="true"
+  >
+    <span
+      class="tss-1-Typography-weightRegular-ref tss-1a4rxa0-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      linkLabel
+    </span>
+  </div>
+</a>
+`;

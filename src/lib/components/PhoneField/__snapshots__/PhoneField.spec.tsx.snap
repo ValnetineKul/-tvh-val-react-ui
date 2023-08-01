@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneField Should render correctly 1`] = `
+<div
+  class="tss-m2x6m-PhoneField-root PhoneInput"
+>
+  <div
+    class="tss-1xhqyx3-CountryDropDown-root"
+  >
+    <button
+      class="MuiButtonBase-root tss-66scks-ButtonBase-root-ButtonBase-focusInset-CountryDropDown-select mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-1xhqyx3-CountryDropDown-root"
+      >
+        <div
+          class="tss-148aqly-FlagIcon-flag-CountryDropDown-flagIcon"
+        >
+          <svg
+            viewBox="0 0 513 342"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>
+              Belgium
+            </title>
+            <path
+              d="M0 0h513v342H0z"
+              fill="#fdda25"
+            />
+            <path
+              d="M0 0h171v342H0z"
+            />
+            <path
+              d="M342 0h171v342H342z"
+              fill="#ef3340"
+            />
+          </svg>
+        </div>
+        <div
+          class="tss-4fpoey-Icon-root-Icon-sizeSm"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            angleDown.svg
+          </svg>
+        </div>
+      </div>
+    </button>
+  </div>
+  <div
+    class="MuiFormControl-root tss-1wi4k30-TextField-root-PhoneField-root mui-1nrlq1o-MuiFormControl-root"
+  >
+    <div
+      class="tss-bdw984-Surface-root"
+    >
+      <div
+        class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl tss-12-TextField-inputRoot-ref tss-vgcldy-TextField-inputRoot-PhoneField-input mui-183rr2a-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-invalid="false"
+          autocomplete="tel"
+          class="tss-1wdq0ip-TextField-input-PhoneField-inputElement MuiOutlinedInput-input MuiInputBase-input mui-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          type="tel"
+          value="+32"
+        />
+        <fieldset
+          aria-hidden="true"
+          class="tss-g3e7l4-TextField-notchedOutline tss-12-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="mui-nnbavb"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      class="tss-19z6szl-TextField-helpers"
+    />
+  </div>
+</div>
+`;

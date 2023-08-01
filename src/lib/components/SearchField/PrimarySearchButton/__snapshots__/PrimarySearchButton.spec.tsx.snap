@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrimarySearchButton Should render correctly 1`] = `
+<button
+  class="MuiButtonBase-root tss-19i6y4p-ButtonBase-root-ButtonBase-focusOut-PrimarySearchButton-sizeSm mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="submit"
+>
+  <div
+    class="tss-th7lmj-PrimarySearchButton-inner tss-5-PrimarySearchButton-inner-ref"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="tss-1yk1nuy-PrimarySearchButton-content"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              search.svg
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</button>
+`;

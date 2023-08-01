@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner Should render custom component correctly: customComponent 1`] = `
+<div
+  class="MuiCollapse-root MuiCollapse-vertical tss-5-Banner-directionHorizontal-ref tss-tfyh55-Banner-root-Banner-directionHorizontal MuiCollapse-entered mui-pwcg7p-MuiCollapse-root"
+  style="min-height: 0px;"
+>
+  <div
+    class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+  >
+    <div
+      class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+    >
+      <div
+        class="tss-xtcpa2-Surface-root-Banner-surface"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardInfo MuiAlert-standard tss-1t9irdj-Alert-root-Banner-banner mui-ig7n8t-MuiPaper-root-MuiAlert-root"
+          role="alert"
+        >
+          <div
+            class="tss-13p8oay-Alert-icon tss-10-Alert-icon-ref MuiAlert-icon mui-1ytlwq5-MuiAlert-icon"
+          >
+            <div
+              class="tss-w1sjks-Icon-root-Icon-sizeMd"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                infoCircle.svg
+              </svg>
+            </div>
+          </div>
+          <div
+            class="tss-cdmgpl-Alert-message-Banner-message MuiAlert-message mui-acap47-MuiAlert-message"
+          >
+            <div
+              class="tss-5-Banner-messageBoxHorizontal-ref tss-1512wcc-Banner-messageBox-Banner-messageBoxHorizontal"
+            >
+              <div>
+                <div>
+                  Message
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Banner Should render direction: horizontal correctly: horizontal 1`] = `
+<div
+  class="MuiCollapse-root MuiCollapse-vertical tss-5-Banner-directionHorizontal-ref tss-tfyh55-Banner-root-Banner-directionHorizontal MuiCollapse-entered mui-pwcg7p-MuiCollapse-root"
+  style="min-height: 0px;"
+>
+  <div
+    class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+  >
+    <div
+      class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+    >
+      <div
+        class="tss-xtcpa2-Surface-root-Banner-surface"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardInfo MuiAlert-standard tss-1t9irdj-Alert-root-Banner-banner mui-ig7n8t-MuiPaper-root-MuiAlert-root"
+          role="alert"
+        >
+          <div
+            class="tss-13p8oay-Alert-icon tss-10-Alert-icon-ref MuiAlert-icon mui-1ytlwq5-MuiAlert-icon"
+          >
+            <div
+              class="tss-w1sjks-Icon-root-Icon-sizeMd"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                infoCircle.svg
+              </svg>
+            </div>
+          </div>
+          <div
+            class="tss-cdmgpl-Alert-message-Banner-message MuiAlert-message mui-acap47-MuiAlert-message"
+          >
+            <div
+              class="tss-5-Banner-messageBoxHorizontal-ref tss-1512wcc-Banner-messageBox-Banner-messageBoxHorizontal"
+            >
+              <div
+                class="tss-4-Typography-weightRegular-ref tss-avim8z-Typography-root-Typography-weightRegular-Banner-typography-Typography-body500"
+              >
+                Banner message
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Banner Should render direction: vertical correctly: vertical 1`] = `
+<div
+  class="MuiCollapse-root MuiCollapse-vertical tss-1pivonf-Banner-root-Banner-directionVertical MuiCollapse-entered mui-pwcg7p-MuiCollapse-root"
+  style="min-height: 0px;"
+>
+  <div
+    class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+  >
+    <div
+      class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+    >
+      <div
+        class="tss-xtcpa2-Surface-root-Banner-surface"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-standardInfo MuiAlert-standard tss-1t9irdj-Alert-root-Banner-banner mui-ig7n8t-MuiPaper-root-MuiAlert-root"
+          role="alert"
+        >
+          <div
+            class="tss-13p8oay-Alert-icon tss-10-Alert-icon-ref MuiAlert-icon mui-1ytlwq5-MuiAlert-icon"
+          >
+            <div
+              class="tss-w1sjks-Icon-root-Icon-sizeMd"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                infoCircle.svg
+              </svg>
+            </div>
+          </div>
+          <div
+            class="tss-cdmgpl-Alert-message-Banner-message MuiAlert-message mui-acap47-MuiAlert-message"
+          >
+            <div
+              class="tss-5-Banner-messageBoxHorizontal-ref tss-1512wcc-Banner-messageBox-Banner-messageBoxHorizontal"
+            >
+              <div
+                class="tss-4-Typography-weightRegular-ref tss-avim8z-Typography-root-Typography-weightRegular-Banner-typography-Typography-body500"
+              >
+                Banner message
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

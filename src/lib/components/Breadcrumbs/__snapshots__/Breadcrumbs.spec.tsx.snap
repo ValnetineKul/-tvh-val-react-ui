@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumbs Should render correctly 1`] = `
+<nav
+  class=""
+>
+  <div
+    class="MuiTypography-root MuiTypography-body1 MuiBreadcrumbs-root mui-13clq44-MuiTypography-root-MuiBreadcrumbs-root"
+  >
+    <ol
+      class="MuiBreadcrumbs-ol mui-4pdmu4-MuiBreadcrumbs-ol"
+    />
+  </div>
+</nav>
+`;

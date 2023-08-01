@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "src/**/*.spec.*", "**/test-setup.ts", "src/**/*.stories.*", "src/**/__mocks__"],
+  "compilerOptions": {
+    "module": "CommonJS",
+    "declaration": true,
+    "incremental": false,
+    "outDir": "./dist",
+    "lib": ["es2020", "dom"]
+  }
+}

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardHeader Should render correctly 1`] = `
+<div
+  class="tss-15t76xy-CardHeader-root"
+>
+  <h3
+    class="tss-0-Typography-headerFunctional-ref tss-11gt335-Typography-root-Typography-headerFunctional-Typography-h3"
+  >
+    Card title
+  </h3>
+  <span
+    class="tss-0-Typography-headerFunctional-ref tss-29ec5r-Typography-root-Typography-headerFunctional-Typography-h4-Typography-secondary"
+  >
+    Card subtitle
+  </span>
+</div>
+`;

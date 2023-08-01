@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Should render correctly 1`] = `
+<p
+  class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+>
+  Sample text
+</p>
+`;

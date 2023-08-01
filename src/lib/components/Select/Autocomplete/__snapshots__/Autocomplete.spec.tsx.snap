@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete Should render correctly 1`] = `
+<div
+  aria-expanded="false"
+  class="MuiAutocomplete-root tss-wn5jpy-Autocomplete-root mui-1rd8t67-MuiAutocomplete-root"
+  role="combobox"
+>
+  <div
+    class="MuiFormControl-root MuiAutocomplete-inputRoot tss-14-Autocomplete-formControl-ref tss-10-TextField-withLabel-ref tss-17lue7l-TextField-root-Autocomplete-formControl-TextField-withLabel mui-1nrlq1o-MuiFormControl-root"
+  >
+    <label
+      class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary tss-cvx41p-InputLabel-root-TextField-label-Autocomplete-fullWidthLabel mui-xlr99k-MuiFormLabel-root-MuiInputLabel-root"
+      data-shrink="false"
+      for="select-id"
+      id="select-id-label"
+    >
+      <span
+        class="tss-5-Typography-weightRegular-ref tss-rgnph8-Typography-root-Typography-weightRegular-InputLabel-label-Typography-body400"
+      >
+        Label
+      </span>
+    </label>
+    <div
+      class="tss-bdw984-Surface-root"
+    >
+      <div
+        class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl tss-10yfkph-TextField-inputRoot tss-10-TextField-inputRoot-ref mui-183rr2a-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-autocomplete="list"
+          aria-invalid="false"
+          autocapitalize="none"
+          autocomplete="off"
+          class="tss-epi3qm-TextField-input MuiOutlinedInput-input MuiInputBase-input MuiAutocomplete-input MuiAutocomplete-inputFocused tss-qljihc-Autocomplete-autoComplete-Autocomplete-input mui-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          id="select-id"
+          spellcheck="false"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="mui-nnbavb"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      class="tss-19z6szl-TextField-helpers"
+    />
+  </div>
+</div>
+`;

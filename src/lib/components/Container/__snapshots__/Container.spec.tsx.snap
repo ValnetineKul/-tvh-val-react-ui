@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Should render correctly 1`] = `
+<div
+  class="MuiContainer-root MuiContainer-maxWidthLg tss-3cvn6o-Container-root mui-1oqqzyl-MuiContainer-root"
+>
+  <div>
+    children
+  </div>
+</div>
+`;

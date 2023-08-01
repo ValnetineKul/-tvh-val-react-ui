@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateTextField Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-10-TextField-withStartIcon-ref tss-10-TextField-withStartAdornment-ref tss-ubelmr-TextField-root-TextField-withStartIcon-TextField-withStartAdornment mui-1nrlq1o-MuiFormControl-root"
+>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedStart tss-10-TextField-inputRoot-ref tss-11lw9i6-TextField-inputRoot-TextField-adornedStart mui-ha1n7c-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <div
+        class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium tss-10-TextField-adornment-ref tss-1mcfx9-InputAdornment-root-TextField-adornment-TextField-startIcon mui-ittuaa-MuiInputAdornment-root"
+      >
+        <span
+          class="notranslate"
+        >
+          ​
+        </span>
+        <div
+          class="tss-w1sjks-Icon-root-Icon-sizeMd"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            calendar.svg
+          </svg>
+        </div>
+      </div>
+      <label
+        class="tss-gx6y4z-DateTextField-visuallyHidden"
+      />
+      <div
+        aria-invalid="false"
+        class="MuiInputBase-root MuiInputBase-colorPrimary MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedStart tss-18k3wr1-DateTextField-adornmentInputRoot-DateTextField-input-TextField-input mui-15nd16p-MuiInputBase-root-MuiInputBase-input-MuiOutlinedInput-input"
+      >
+        <input
+          class="MuiInputBase-input mui-yz9k0d-MuiInputBase-input"
+          placeholder="dd/mm/yyyy"
+          type="text"
+          value=""
+        />
+      </div>
+      <fieldset
+        aria-hidden="true"
+        class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListLayout Should render correctly: ListLayout 1`] = `
+<div
+  class="tss-wxk8c8-ListLayout-container some-class-name"
+>
+  <div
+    class="tss-1u38nr0-ListLayout-toolbar"
+  >
+    <div>
+      Toolbar
+    </div>
+  </div>
+  <div
+    class="tss-1ccd8tx-ListLayout-table"
+  >
+    <div>
+      Table or Cards
+    </div>
+  </div>
+  <div>
+    Pagination
+  </div>
+</div>
+`;

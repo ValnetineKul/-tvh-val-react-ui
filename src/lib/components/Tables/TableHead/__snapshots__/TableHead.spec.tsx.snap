@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableHeader Should render correctly 1`] = `
+<table>
+  <thead
+    class="tss-1q9inhp-TableHead-root MuiTableHead-root mui-15wwp11-MuiTableHead-root"
+  >
+    <tr>
+      <td>
+        Children
+      </td>
+    </tr>
+  </thead>
+</table>
+`;

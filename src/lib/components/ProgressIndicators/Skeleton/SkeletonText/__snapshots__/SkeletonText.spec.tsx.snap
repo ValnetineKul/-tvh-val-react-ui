@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SkeletonText Should render correctly: SkeletonText 1`] = `
+<div
+  class="tss-lplq1l-SkeletonText-root"
+  data-testid="skeleton-text"
+>
+  <div
+    class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-lg6l74-SkeletonText-h1-SkeletonText-skeletonAnimation-SkeletonText-heading mui-1slz293-MuiSkeleton-root"
+  />
+  <div
+    class="tss-z0i8lo-SkeletonText-bodyWrapper"
+  >
+    <div
+      class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-yvp8fo-SkeletonText-body1-SkeletonText-skeletonAnimation mui-1slz293-MuiSkeleton-root"
+    />
+    <div
+      class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-yvp8fo-SkeletonText-body1-SkeletonText-skeletonAnimation mui-1slz293-MuiSkeleton-root"
+    />
+    <div
+      class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-yvp8fo-SkeletonText-body1-SkeletonText-skeletonAnimation mui-1slz293-MuiSkeleton-root"
+    />
+  </div>
+</div>
+`;

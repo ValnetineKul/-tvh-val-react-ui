@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountrySelect Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-16-TextField-withStartAdornment-ref tss-16-TextField-withLabel-ref tss-1rqzzt7-TextField-root-Select-formControl-TextField-withStartAdornment-TextField-withLabel mui-1nrlq1o-MuiFormControl-root"
+>
+  <label
+    class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary tss-mactna-InputLabel-root-TextField-label-Select-label mui-xlr99k-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink="false"
+    for="id-input-label"
+  >
+    <span
+      class="tss-2-Typography-weightRegular-ref tss-1qugfhp-Typography-root-Typography-weightRegular-InputLabel-label-Typography-body400"
+    >
+      label
+    </span>
+  </label>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd tss-16-TextField-inputRoot-ref tss-1wa0j4i-TextField-inputRoot-TextField-adornedStart-TextField-adornedEnd mui-1cflty8-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <input
+        aria-invalid="false"
+        autocomplete="off"
+        class="tss-1sv2whm-TextField-input MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd tss-1i9zx85-Select-input mui-152mnda-MuiInputBase-input-MuiOutlinedInput-input"
+        id="id-input-label"
+        type="text"
+        value=""
+      />
+      <div
+        class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeMedium tss-1tivgqf-InputAdornment-root mui-1laqsz7-MuiInputAdornment-root"
+      >
+        <button
+          aria-label="Toggle select"
+          class="MuiButtonBase-root tss-1b9x7sz-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+          tabindex="-1"
+          type="button"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              angleDown.svg
+            </svg>
+          </div>
+        </button>
+      </div>
+      <fieldset
+        aria-hidden="true"
+        class="tss-j7rywy-TextField-notchedOutline tss-16-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

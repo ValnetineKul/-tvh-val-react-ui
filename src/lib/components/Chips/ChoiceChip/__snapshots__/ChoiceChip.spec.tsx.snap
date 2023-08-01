@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChoiceChip Should render correctly 1`] = `
+<button
+  class="MuiButtonBase-root tss-1-ChoiceChip-hasTwoColumns-ref tss-1-ChoiceChip-hasTitleAndLabel-ref tss-1nun9j8-ButtonBase-root-ButtonBase-border-ButtonBase-focusOut-ChoiceChip-root-ChoiceChip-hasTwoColumns-ChoiceChip-hasTitleAndLabel mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="tss-1-ChoiceChip-imageWrapper-ref tss-1-ChoiceChip-imagePadding-ref tss-g775ux-ChoiceChip-imageWrapper-ChoiceChip-imagePadding"
+  >
+    <img
+      alt=""
+      class="tss-9z9wi9-Image-root"
+      src="image.png"
+    />
+  </span>
+  <span
+    class="tss-1-ChoiceChip-label-ref tss-aev02m-ChoiceChip-label-ChoiceChip-labelWrapper"
+  >
+    <span
+      class="tss-2-Typography-weightEmphasis-ref tss-re67fc-Typography-root-Typography-weightEmphasis-Typography-body500"
+    >
+      Title
+    </span>
+    <span
+      class="tss-2-Typography-weightRegular-ref tss-78xlft-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      Label
+    </span>
+  </span>
+</button>
+`;

@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CallToActionButton Should correctly render a link 1`] = `
+<a
+  aria-disabled="false"
+  class="MuiButtonBase-root tss-1wztk4a-ButtonBase-root-ButtonBase-focusOut-CallToActionButton-root mui-10d1a0h-MuiButtonBase-root"
+  href="#"
+  tabindex="0"
+>
+  <div
+    class="tss-ddcb3u-CallToActionButton-inner"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="tss-142dt2m-CallToActionButton-content"
+        >
+          <span
+            class="tss-3-Typography-headerCommercial-ref tss-1uop2om-Typography-root-Typography-headerCommercial-CallToActionButton-label-Typography-h4"
+          >
+            Label
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
+`;
+
+exports[`CallToActionButton Should render correctly 1`] = `
+<button
+  class="MuiButtonBase-root tss-1wztk4a-ButtonBase-root-ButtonBase-focusOut-CallToActionButton-root mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="button"
+>
+  <div
+    class="tss-ddcb3u-CallToActionButton-inner"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="tss-142dt2m-CallToActionButton-content"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              search.svg
+            </svg>
+          </div>
+          <span
+            class="tss-3-Typography-headerCommercial-ref tss-pfp3h7-Typography-root-Typography-headerCommercial-CallToActionButton-label-Typography-h4"
+          >
+            Label
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</button>
+`;
+
+exports[`CallToActionButton Should render correctly with label 1`] = `
+<button
+  class="MuiButtonBase-root tss-1wztk4a-ButtonBase-root-ButtonBase-focusOut-CallToActionButton-root mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="button"
+>
+  <div
+    class="tss-ddcb3u-CallToActionButton-inner"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="tss-142dt2m-CallToActionButton-content"
+        >
+          <span
+            class="tss-3-Typography-headerCommercial-ref tss-1uop2om-Typography-root-Typography-headerCommercial-CallToActionButton-label-Typography-h4"
+          >
+            Label
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</button>
+`;
+
+exports[`CallToActionButton Should render correctly without label 1`] = `
+<button
+  class="MuiButtonBase-root tss-1wztk4a-ButtonBase-root-ButtonBase-focusOut-CallToActionButton-root mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="button"
+>
+  <div
+    class="tss-ddcb3u-CallToActionButton-inner"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <div
+          class="tss-1sqsqmd-CallToActionButton-content-CallToActionButton-iconOnly"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              search.svg
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</button>
+`;

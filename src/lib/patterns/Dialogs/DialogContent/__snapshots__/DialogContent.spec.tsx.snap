@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DialogContent Should render correctly 1`] = `
+<div
+  class="MuiDialogContent-root tss-qjzeu4-DialogContent-root mui-ypiqx9-MuiDialogContent-root"
+>
+  <span>
+    Dialog content
+  </span>
+</div>
+`;

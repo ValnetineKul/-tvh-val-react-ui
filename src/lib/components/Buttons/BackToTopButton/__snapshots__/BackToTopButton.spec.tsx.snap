@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BackToTopButton Should render correctly 1`] = `
+<div>
+  <button
+    class="MuiButtonBase-root tss-3-BackToTopButton-backToTop-ref tss-1qpp0so-ButtonBase-root-ButtonBase-focusOut-FloatingActionButton-root-BackToTopButton-root-BackToTopButton-backToTop mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-w1sjks-Icon-root-Icon-sizeMd"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        angleUp.svg
+      </svg>
+    </div>
+  </button>
+</div>
+`;

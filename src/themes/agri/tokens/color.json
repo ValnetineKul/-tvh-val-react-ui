@@ -1,0 +1,18 @@
+{
+  "bg/surfacePrimary/default": "#00418e",
+  "bg/surfacePrimary/hover": "#445fef",
+  "bg/surfacePrimary/active": "#b1b8ff",
+  "text/onSurfaceDefault/active": "#00418e",
+  "text/onSurfaceDefault/primary/default": "#00418e",
+  "text/onSurfaceDefault/primary/active": "#b1b8ff",
+  "text/onSurface200/active": "#005c83",
+  "text/onSurface300/active": "#00418e",
+  "icon/onSurfaceDefault/action/default": "#00418e",
+  "icon/onSurface300/action/default": "#00418e",
+  "border/onSurfaceDefault/selected": "#00418e",
+  "border/onSurfaceDefault/focus": "rgba(68, 95, 239, 0.16)",
+  "line/onSurfaceDefault/primary": "#00418e",
+  "accents/onSurfaceDefault/primary/default": "#00418e",
+  "accents/onSurfaceDefault/primary/hover": "#445fef",
+  "accents/onSurfaceDefault/primary/active": "#b1b8ff"
+}

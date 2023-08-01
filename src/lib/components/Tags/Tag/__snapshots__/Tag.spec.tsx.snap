@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag Should render correctly 1`] = `
+<div
+  class="tss-1xe17aj-Tag-root-Tag-colorPrimary"
+>
+  <span
+    class="tss-1-Typography-weightRegular-ref tss-1a4rxa0-Typography-root-Typography-weightRegular-Typography-body500"
+  >
+    Tag text
+  </span>
+</div>
+`;

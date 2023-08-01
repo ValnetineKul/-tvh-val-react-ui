@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlagTag Should render correctly 1`] = `
+<div
+  class="tss-2beij6-FlagTag-root-FlagTag-sizeMd"
+>
+  <div
+    class="tss-75p4hn-FlagTag-tagBox tss-2-FlagTag-tagBox-ref"
+  >
+    <span
+      class="tss-2-FlagTag-patchLabel-ref tss-2-FlagTag-labelText-ref tss-fczuv6-Typography-root-FlagTag-patchLabel-FlagTag-labelText"
+    >
+      promo
+    </span>
+    <div
+      class="tss-2-FlagTag-patchLabel-ref tss-2-FlagTag-extraPatchLabel-ref tss-1trdz71-FlagTag-patchLabel-FlagTag-extraPatchLabel"
+    >
+      <div
+        class="tss-2-FlagTag-icon-ref tss-1lgqc9e-Icon-root-Icon-sizeMd-FlagTag-icon"
+      >
+        <svg
+          aria-hidden="true"
+          aria-label="promo"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+          color="inherit"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          sparkles.svg
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

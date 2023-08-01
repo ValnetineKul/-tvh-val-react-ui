@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json.schemastore.org/semantic-release.json",
+  "repositoryUrl": "git@gitlab.tools.parts.tvh.com:digital-delivery/common-tools/react-ui.git",
+  "branches": [
+    "+([0-9])?(.{+([0-9]),x}).x",
+    "master",
+    "next",
+    "next-major",
+    {
+      "name": "beta",
+      "prerelease": true
+    },
+    {
+      "name": "alpha",
+      "prerelease": true
+    }
+  ],
+  "plugins": [
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "angular"
+      }
+    ],
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        "preset": "angular"
+      }
+    ],
+    [
+      "@semantic-release/npm",
+      {
+        "pkgRoot": "dist"
+      }
+    ],
+    "@semantic-release/git",
+    [
+      "@semantic-release/gitlab",
+      {
+        "gitlabUrl": "https://gitlab.tools.parts.tvh.com"
+      }
+    ]
+  ],
+  "tagFormat": "v${version}"
+}

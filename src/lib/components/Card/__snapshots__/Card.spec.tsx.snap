@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Should render correctly: Card 1`] = `
+<div
+  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiCard-root mui-xg2nla-MuiPaper-root-MuiCard-root tss-nklt40-Surface-root-Surface-border-Card-root-Card-rootHorizontal"
+>
+  <div
+    class="tss-1y9cfh6-Card-content"
+  >
+    <div
+      class="tss-15t76xy-CardHeader-root"
+    >
+      <h3
+        class="tss-6-Typography-headerFunctional-ref tss-eg6zqq-Typography-root-Typography-headerFunctional-Typography-h3"
+      >
+        Card Header
+      </h3>
+      <span
+        class="tss-6-Typography-headerFunctional-ref tss-hfky07-Typography-root-Typography-headerFunctional-Typography-h4-Typography-secondary"
+      >
+        subtitle
+      </span>
+    </div>
+    <div
+      class="MuiCardContent-root tss-1tjd4an-CardContent-root mui-46bh2p-MuiCardContent-root"
+    >
+      Card content
+    </div>
+  </div>
+</div>
+`;

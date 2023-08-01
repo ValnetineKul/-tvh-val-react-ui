@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IllustrationMessage Should render correctly 1`] = `
+<div
+  class="tss-4vls3k-IllustrationMessage-root-IllustrationMessage-rootVertical"
+>
+  <div
+    class="tss-1ibkbcr-IllustrationMessage-imageWrapper-IllustrationMessage-imageWrapperVertical"
+  >
+    <svg>
+      bug.svg
+    </svg>
+  </div>
+  <div
+    class="tss-70bib1-IllustrationMessage-contentWrapper-IllustrationMessage-contentWrapperVertical"
+  >
+    <h4
+      class="tss-0-Typography-headerFunctional-ref tss-utazos-Typography-root-Typography-headerFunctional-IllustrationMessage-header-Typography-h4"
+    >
+      No results
+    </h4>
+    <p
+      class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      Try adjusting your search or filters to find what you are looking for.
+    </p>
+    <div
+      class="tss-1qh84at-IllustrationMessage-action-IllustrationMessage-actionVertical-IllustrationMessage-actionXs"
+    >
+      <div
+        class="tss-1bm80c1-Surface-root-Button-surface"
+      >
+        <div
+          class="tss-gp2qi4-SpinnerWithBackdrop-root-IllustrationMessage-buttonXs"
+        >
+          <div
+            class=""
+          >
+            <button
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-16wzgcr-Button-root-Button-sizeMd-Button-button-IllustrationMessage-buttonXs mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              Reload
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="tss-1kammvl-Surface-root-Button-surface"
+      >
+        <div
+          class="tss-4-Button-tertiaryButtonBackdrop-ref tss-3sykj7-SpinnerWithBackdrop-root-Button-tertiaryButtonBackdrop-IllustrationMessage-buttonXs"
+        >
+          <div
+            class=""
+          >
+            <button
+              class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-4-Button-tertiaryButton-ref tss-1m3jx99-Button-root-Button-sizeMd-Button-button-Button-tertiaryButton-IllustrationMessage-buttonXs mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              Alternative
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

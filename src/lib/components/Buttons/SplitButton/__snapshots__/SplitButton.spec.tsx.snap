@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SplitButton Should render correctly 1`] = `
+<div
+  class="tss-pgyigc-SplitButton-root"
+  role="group"
+>
+  <div
+    class="tss-1rli6yf-Surface-root-Button-surface-Button-fullWidth"
+  >
+    <div
+      class="tss-9m4sfu-SpinnerWithBackdrop-root-Button-fullWidth"
+    >
+      <div
+        class=""
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButton-fullWidth MuiButtonBase-root tss-tmx9yg-Button-root-Button-sizeMd-Button-button mui-wk87x3-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              shoppingBasket.svg
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="tss-1l4m758-Surface-root-SplitButton-divider"
+  >
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical MuiDivider-flexItem tss-13r6ghz-Divider-root-Divider-vertical mui-1tk1bks-MuiDivider-root"
+    />
+  </div>
+  <div
+    class="tss-1bm80c1-Surface-root-Button-surface"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-1h7yenw-Button-root-Button-sizeMd-Button-button-SplitButton-button mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+          data-testid="toggle-dropdown"
+          tabindex="0"
+          type="button"
+        >
+          <div
+            class="tss-w1sjks-Icon-root-Icon-sizeMd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+              color="inherit"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              angleDown.svg
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

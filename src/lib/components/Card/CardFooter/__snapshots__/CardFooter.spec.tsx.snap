@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardFooter Should render correctly 1`] = `
+<div
+  class="MuiCardActions-root MuiCardActions-spacing tss-1u5aq9a-CardAction-root-CardFooter-root mui-1t6e9jv-MuiCardActions-root"
+>
+  Action buttons
+</div>
+`;

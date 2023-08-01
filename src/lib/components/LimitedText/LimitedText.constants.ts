@@ -1,0 +1,1 @@
+export const DEFAULT_MAX_CHARACTERS_LENGTH = 30;

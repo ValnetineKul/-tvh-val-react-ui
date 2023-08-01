@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccordionSummary Should render correctly 1`] = `
+<button
+  aria-controls="id"
+  class="MuiButtonBase-root MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters tss-15ks9lm-ButtonBase-root-ButtonBase-focusInset-AccordionSummary-summary mui-6a0xca-MuiButtonBase-root-MuiButtonBase-root-MuiAccordionSummary-root"
+  id="id"
+  role="button"
+  tabindex="0"
+  type="button"
+>
+  <div
+    class="tss-hsuwam-AccordionSummary-content MuiAccordionSummary-content MuiAccordionSummary-contentGutters mui-o4b71y-MuiAccordionSummary-content"
+  >
+    <div
+      class="tss-1wm0ng0-Badge-root-Badge-fullWidth"
+    >
+      <h4
+        class="tss-3-Typography-headerFunctional-ref tss-1tmrdqw-Typography-root-Typography-headerFunctional-AccordionSummary-title-Typography-h4"
+      >
+        Accordion title
+      </h4>
+    </div>
+  </div>
+  <div
+    class="tss-1edipic-AccordionSummary-expandIcon MuiAccordionSummary-expandIconWrapper mui-yw020d-MuiAccordionSummary-expandIconWrapper"
+  >
+    <div
+      class="tss-w1sjks-Icon-root-Icon-sizeMd"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        plus.svg
+      </svg>
+    </div>
+  </div>
+</button>
+`;

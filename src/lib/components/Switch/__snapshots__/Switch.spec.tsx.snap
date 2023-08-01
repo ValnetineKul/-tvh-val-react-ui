@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch Should render correctly 1`] = `
+<label
+  class="tss-nsils0-Switch-root MuiFormControlLabel-root MuiFormControlLabel-labelPlacementStart mui-1f2kvjf-MuiFormControlLabel-root"
+>
+  <span
+    class="tss-o4515c-Switch-switch MuiSwitch-root MuiSwitch-sizeMedium mui-julti5-MuiSwitch-root"
+  >
+    <span
+      class="tss-i5xijy-Switch-switchBase MuiSwitch-switchBase MuiSwitch-colorPrimary MuiButtonBase-root tss-i5xijy-Switch-switchBase MuiSwitch-switchBase MuiSwitch-colorPrimary PrivateSwitchBase-root mui-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase"
+    >
+      <input
+        class="MuiSwitch-input PrivateSwitchBase-input mui-1m9pwf3"
+        type="checkbox"
+      />
+      <span
+        class="tss-h4qgiu-Switch-thumb MuiSwitch-thumb mui-jsexje-MuiSwitch-thumb"
+      />
+    </span>
+    <span
+      class="tss-6ma85n-Switch-track tss-1-Switch-track-ref MuiSwitch-track mui-1yjjitx-MuiSwitch-track"
+    />
+  </span>
+  <span
+    class="MuiTypography-root MuiTypography-body1 tss-1azewx1-Switch-label tss-1-Switch-label-ref MuiFormControlLabel-label mui-b600p5-MuiTypography-root"
+  >
+    <span
+      class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      Switch label
+    </span>
+  </span>
+</label>
+`;

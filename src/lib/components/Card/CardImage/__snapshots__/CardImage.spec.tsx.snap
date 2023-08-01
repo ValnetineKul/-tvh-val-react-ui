@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardImage Should render correctly 1`] = `
+<div
+  class="MuiCardMedia-root tss-1xjno9i-CardImage-sizeContain-CardImage-directionVertical mui-16cvb1l-MuiCardMedia-root"
+  role="img"
+  style="background-image: url(filter.jpg);"
+/>
+`;

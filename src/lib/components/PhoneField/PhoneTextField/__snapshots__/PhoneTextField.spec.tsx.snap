@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneTextField Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-10-TextField-readOnly-ref tss-6bzbxe-TextField-root-PhoneField-root-PhoneField-rootReadOnly-TextField-readOnly mui-1nrlq1o-MuiFormControl-root"
+>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl tss-10-TextField-inputRoot-ref tss-mptm0n-TextField-inputRoot-PhoneField-inputReadOnly mui-183rr2a-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <input
+        aria-invalid="false"
+        class="tss-ajocaw-TextField-input-PhoneField-inputElement MuiOutlinedInput-input MuiInputBase-input mui-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        readonly=""
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

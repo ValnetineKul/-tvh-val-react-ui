@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Should render correctly 1`] = `
+<ul
+  class="tss-0-Typography-weightRegular-ref tss-1-List-root-ref tss-15gxqo-Typography-root-Typography-weightRegular-List-root-List-unorderedList-Typography-body500"
+>
+  <li
+    class="tss-u5ccdm-ListItem-root-ListItem-unorderedRoot"
+  >
+    List Item
+  </li>
+</ul>
+`;

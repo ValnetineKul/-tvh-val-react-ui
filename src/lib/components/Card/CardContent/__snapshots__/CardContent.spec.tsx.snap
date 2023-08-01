@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardContent Should render correctly 1`] = `
+<div
+  class="MuiCardContent-root tss-1tjd4an-CardContent-root mui-46bh2p-MuiCardContent-root"
+>
+  Card content here
+</div>
+`;

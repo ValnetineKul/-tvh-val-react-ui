@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryDropdown Should render correctly 1`] = `
+<div
+  class="tss-1xhqyx3-CountryDropDown-root"
+>
+  <button
+    class="MuiButtonBase-root tss-66scks-ButtonBase-root-ButtonBase-focusInset-CountryDropDown-select mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  />
+</div>
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton Should render correctly 1`] = `
+<label
+  class="tss-1neb9gh-RadioButton-root MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd mui-j204z7-MuiFormControlLabel-root"
+>
+  <span
+    class="MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root tss-1tmse2r-RadioButton-radio mui-vqmohf-MuiButtonBase-root-MuiRadio-root"
+  >
+    <input
+      class="PrivateSwitchBase-input mui-1m9pwf3"
+      type="radio"
+      value="RadioButton value"
+    />
+    <span
+      class="tss-1r3d2cc-RadioButton-icon-RadioButton-unchecked"
+      font-size="medium"
+    />
+  </span>
+  <span
+    class="MuiTypography-root MuiTypography-body1 tss-17hy40x-RadioButton-label tss-1-RadioButton-label-ref MuiFormControlLabel-label mui-b600p5-MuiTypography-root"
+  >
+    <span
+      class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      RadioButton label
+    </span>
+  </span>
+</label>
+`;

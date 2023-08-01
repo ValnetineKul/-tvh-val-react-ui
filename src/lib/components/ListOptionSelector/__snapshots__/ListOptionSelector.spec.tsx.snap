@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListOptionSelector Should render correctly 1`] = `
+<div
+  class="tss-1mnbvc4-ListOptionSelector-root"
+>
+  <span
+    class="tss-5-Typography-weightRegular-ref tss-3ton9f-Typography-root-Typography-weightRegular-ListOptionSelector-label-Typography-body500"
+  >
+    Sort by:
+  </span>
+  <div
+    class="tss-1kammvl-Surface-root-Button-surface"
+  >
+    <div
+      class="tss-pyz8vm-SpinnerWithBackdrop-root"
+    >
+      <div
+        class=""
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-3-Button-variantLink-ref tss-3-Button-linkTypePrimary-ref tss-8544pl-Button-root-Button-variantLink-Button-linkTypePrimary-ListOptionSelector-value mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          most recent
+          <span
+            class="tss-1gywngm-Button-endIcon MuiButton-endIcon MuiButton-iconSizeMedium mui-9dzbxy-MuiButton-endIcon"
+          >
+            <div
+              class="tss-4fpoey-Icon-root-Icon-sizeSm"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                angleDown.svg
+              </svg>
+            </div>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,5 @@
+/* JSS has an issue with @page rule: https://github.com/cssinjs/jss/issues/620 */
+@page {
+  size: 330mm 427mm;
+  margin: 22mm;
+}

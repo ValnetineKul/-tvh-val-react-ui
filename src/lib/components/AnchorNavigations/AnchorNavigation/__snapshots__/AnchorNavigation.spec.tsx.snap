@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnchorNavigation Should render correctly 1`] = `
+<nav
+  class="tss-11kuxjf-Surface-root-AnchorNavigation-root"
+>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg tss-1nurcy4-Container-root mui-1oqqzyl-MuiContainer-root"
+  >
+    <div
+      class="tss-1rb1cua-AnchorNavigation-anchorList MuiTabs-root mui-1ujnqem-MuiTabs-root"
+    >
+      <div
+        class="MuiTabs-scrollableX MuiTabs-hideScrollbar mui-agdkjh-MuiTabs-scrollbarSize"
+        style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+      />
+      <div
+        class="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableX mui-69z67c-MuiTabs-scroller"
+        style="margin-bottom: -100px;"
+      >
+        <div
+          class="MuiTabs-flexContainer mui-heg063-MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <a
+            class="MuiButtonBase-root MuiButtonBase-root MuiTab-root MuiTab-textColorInherit tss-1w7io4j-ButtonBase-root-ButtonBase-focusInset-AnchorItem-tabItem mui-1104c1u-MuiButtonBase-root-MuiButtonBase-root-MuiTab-root"
+            href="#anchor-navigation-0"
+            role="link"
+            tabindex="0"
+          >
+            <div
+              aria-label="link1"
+              class="tss-2-Typography-weightRegular-ref tss-10drze0-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+              data-mui-internal-clone-element="true"
+            >
+              <span
+                class="tss-2-Typography-weightRegular-ref tss-78xlft-Typography-root-Typography-weightRegular-Typography-body500"
+              >
+                link1
+              </span>
+            </div>
+          </a>
+          <a
+            class="MuiButtonBase-root MuiButtonBase-root MuiTab-root MuiTab-textColorInherit tss-1w7io4j-ButtonBase-root-ButtonBase-focusInset-AnchorItem-tabItem mui-1104c1u-MuiButtonBase-root-MuiButtonBase-root-MuiTab-root"
+            href="#anchor-navigation-1"
+            role="link"
+            tabindex="0"
+          >
+            <div
+              aria-label="link2"
+              class="tss-2-Typography-weightRegular-ref tss-10drze0-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+              data-mui-internal-clone-element="true"
+            >
+              <span
+                class="tss-2-Typography-weightRegular-ref tss-78xlft-Typography-root-Typography-weightRegular-Typography-body500"
+              >
+                link2
+              </span>
+            </div>
+          </a>
+          <a
+            class="MuiButtonBase-root MuiButtonBase-root MuiTab-root MuiTab-textColorInherit tss-1w7io4j-ButtonBase-root-ButtonBase-focusInset-AnchorItem-tabItem mui-1104c1u-MuiButtonBase-root-MuiButtonBase-root-MuiTab-root"
+            href="#anchor-navigation-2"
+            role="link"
+            tabindex="0"
+          >
+            <div
+              aria-label="link3"
+              class="tss-2-Typography-weightRegular-ref tss-10drze0-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+              data-mui-internal-clone-element="true"
+            >
+              <span
+                class="tss-2-Typography-weightRegular-ref tss-78xlft-Typography-root-Typography-weightRegular-Typography-body500"
+              >
+                link3
+              </span>
+            </div>
+          </a>
+          <a
+            class="MuiButtonBase-root MuiButtonBase-root MuiTab-root MuiTab-textColorInherit tss-1w7io4j-ButtonBase-root-ButtonBase-focusInset-AnchorItem-tabItem mui-1104c1u-MuiButtonBase-root-MuiButtonBase-root-MuiTab-root"
+            href="#anchor-navigation-3"
+            role="link"
+            tabindex="0"
+          >
+            <div
+              aria-label="link4"
+              class="tss-2-Typography-weightRegular-ref tss-10drze0-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+              data-mui-internal-clone-element="true"
+            >
+              <span
+                class="tss-2-Typography-weightRegular-ref tss-78xlft-Typography-root-Typography-weightRegular-Typography-body500"
+              >
+                link4
+              </span>
+            </div>
+          </a>
+        </div>
+        <span
+          class="tss-2i5uv4-AnchorNavigation-indicator MuiTabs-indicator mui-1aquho2-MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+  </div>
+</nav>
+`;

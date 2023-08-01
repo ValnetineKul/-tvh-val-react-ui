@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextArea Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-16kerj4-TextField-root mui-1nrlq1o-MuiFormControl-root"
+>
+  <label
+    class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary tss-tsk5sp-InputLabel-root-TextField-label mui-xlr99k-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink="false"
+    for="label"
+  >
+    <span
+      class="tss-3-Typography-weightRegular-ref tss-15jpb5e-Typography-root-Typography-weightRegular-InputLabel-label-Typography-body400"
+    >
+      label
+    </span>
+  </label>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-multiline tss-10-TextField-inputRoot-ref tss-1lxby0w-TextField-inputRoot-TextArea-input mui-mrvkr4-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <textarea
+        aria-invalid="false"
+        class="tss-1nli869-TextField-input-TextArea-root MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputMultiline mui-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input"
+        id="label"
+        rows="2"
+        style="height: 0px; overflow: hidden;"
+      />
+      <textarea
+        aria-hidden="true"
+        class="tss-1nli869-TextField-input-TextArea-root MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputMultiline mui-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input"
+        readonly=""
+        style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0); padding: 0px; width: 100%;"
+        tabindex="-1"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

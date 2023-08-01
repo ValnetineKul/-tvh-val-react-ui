@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Drawer Should render correctly 1`] = `
+<body
+  style="padding-right: 1024px; overflow: hidden;"
+>
+  <div
+    aria-hidden="true"
+  />
+  <div
+    class="MuiModal-root MuiDrawer-root MuiDrawer-modal mui-1u2w381-MuiModal-root-MuiDrawer-root"
+    role="presentation"
+  >
+    <div
+      aria-hidden="true"
+      class="MuiBackdrop-root mui-i9fmh8-MuiBackdrop-root-MuiModal-backdrop"
+      style="opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    />
+    <div
+      data-test="sentinelStart"
+      tabindex="0"
+    />
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 tss-2-Drawer-widthMd-ref tss-17kcc7r-Drawer-paper-Drawer-widthMd MuiDrawer-paper MuiDrawer-paperAnchorLeft mui-4t3x6l-MuiPaper-root-MuiDrawer-paper"
+      tabindex="-1"
+    >
+      <div
+        class="tss-z4jt7l-Surface-root"
+      >
+        <div
+          class="tss-zcjtpr-DrawerHeader-header"
+        >
+          <button
+            class="MuiButtonBase-root tss-x4btvw-ButtonBase-root-ButtonBase-focusOut-Logo-root mui-10d1a0h-MuiButtonBase-root"
+            tabindex="0"
+            type="button"
+          >
+            <img
+              alt="Logo"
+              class="tss-iftyg6-Image-root-Logo-sizeSm"
+              src="negativeLogo.svg"
+            />
+          </button>
+          <button
+            aria-label="close"
+            class="MuiButtonBase-root tss-7kteag-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+            tabindex="0"
+            type="button"
+          >
+            <div
+              class="tss-w1sjks-Icon-root-Icon-sizeMd"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+                color="inherit"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                times.svg
+              </svg>
+            </div>
+          </button>
+        </div>
+      </div>
+      <div
+        class="tss-1tcacai-Surface-root-Drawer-content"
+      >
+        <span>
+          Test
+        </span>
+      </div>
+    </div>
+    <div
+      data-test="sentinelEnd"
+      tabindex="0"
+    />
+  </div>
+</body>
+`;

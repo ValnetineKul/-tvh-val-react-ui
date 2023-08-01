@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar Should render correctly: progressbar 1`] = `
+<div
+  class="tss-1kejtv2-ProgressBar-root"
+>
+  <span
+    aria-valuemax="100"
+    aria-valuemin="0"
+    aria-valuenow="50"
+    class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate tss-1r1iwg9-ProgressBar-progressBar mui-eglki6-MuiLinearProgress-root"
+    role="progressbar"
+  >
+    <span
+      class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate mui-5xe99f-MuiLinearProgress-bar1"
+      style="transform: translateX(-50%);"
+    />
+  </span>
+  <p
+    class="tss-0-Typography-weightRegular-ref tss-q925wq-Typography-root-Typography-weightRegular-ProgressBar-endLabel-Typography-body400"
+  >
+    50%
+  </p>
+</div>
+`;

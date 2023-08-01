@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+FILES=$(git diff --cached --name-only --diff-filter=ACMR | grep -E 'src\/.+\.tsx?$' || true )
+[ -z "$FILES" ] && exit 0
+
+# Prettify all changed files
+echo "$FILES" | xargs ./node_modules/.bin/eslint --fix
+echo "$FILES" | xargs ./node_modules/.bin/prettier --ignore-unknown --write
+
+# Add back the modified/prettified files to staging
+echo "$FILES" | xargs git add

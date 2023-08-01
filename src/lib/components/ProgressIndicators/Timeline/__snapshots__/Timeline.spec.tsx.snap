@@ -1,0 +1,889 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timeline Altering Should render altering correctly 1`] = `
+<div
+  class="tss-uw2vap-Timeline-root-Timeline-rootHorizontal-Timeline-rootAlteringHorizontal"
+>
+  <div
+    class="tss-19tosgr-Timeline-itemRoot-Timeline-itemRootAlteringHorizontal"
+  >
+    <div
+      class="tss-oftgos-TimelineItem-root-TimelineItem-rootHorizontal-Timeline-itemAltering"
+    >
+      <div
+        class="tss-gdul64-TimelineItem-iconRoot-TimelineItem-iconRootCompleted"
+      >
+        <div
+          class="tss-1nb48n6-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconCompleted"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            check.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <div
+          class="tss-amgzz2-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Received
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            We have received your request.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1t5v62k-TimelineConnector-root-TimelineConnector-rootHorizontal"
+    >
+      <span
+        class="tss-1xqbue-TimelineConnector-line-TimelineConnector-lineHorizontal-TimelineConnector-lineCompletedHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-19tosgr-Timeline-itemRoot-Timeline-itemRootAlteringHorizontal"
+  >
+    <div
+      class="tss-1kam3fi-TimelineItem-root-TimelineItem-rootHorizontal-TimelineItem-rootReversedHorizontal-Timeline-itemAltering"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-16g0g1a-TimelineItem-textRoot-TimelineItem-textRootHorizontal-TimelineItem-textRootReversedHorizontal"
+      >
+        <div
+          class="tss-jsse2z-Surface-root-StatusTag-root-TimelineItem-tagReversedRoot"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Research
+          </span>
+        </div>
+        <div
+          class="tss-o1rex0-TimelineItem-description-TimelineItem-descriptionReversedHorizontal"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1w04ufo-TimelineConnector-root-TimelineConnector-rootHorizontal-TimelineConnector-rootReversedHorizontal"
+    >
+      <span
+        class="tss-72wrku-TimelineConnector-line-TimelineConnector-lineHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-19tosgr-Timeline-itemRoot-Timeline-itemRootAlteringHorizontal"
+  >
+    <div
+      class="tss-oftgos-TimelineItem-root-TimelineItem-rootHorizontal-Timeline-itemAltering"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <p
+          class="tss-4-Typography-weightEmphasis-ref tss-1etnn86-Typography-root-Typography-weightEmphasis-TimelineItem-tagText-Typography-body400"
+        >
+          Resolved
+        </p>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Description line 2
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Third description
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1t5v62k-TimelineConnector-root-TimelineConnector-rootHorizontal"
+    >
+      <span
+        class="tss-72wrku-TimelineConnector-line-TimelineConnector-lineHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-19tosgr-Timeline-itemRoot-Timeline-itemRootAlteringHorizontal"
+  >
+    <div
+      class="tss-1kam3fi-TimelineItem-root-TimelineItem-rootHorizontal-TimelineItem-rootReversedHorizontal-Timeline-itemAltering"
+    >
+      <div
+        class="tss-118xdvf-TimelineItem-iconRoot-TimelineItem-iconRootWarning"
+      >
+        <div
+          class="tss-1riwgsj-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconWarning"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            exclamationTriangle.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-16g0g1a-TimelineItem-textRoot-TimelineItem-textRootHorizontal-TimelineItem-textRootReversedHorizontal"
+      >
+        <div
+          class="tss-1yblx8c-Surface-root-StatusTag-root-TimelineItem-tagReversedRoot"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Resolved
+          </span>
+        </div>
+        <div
+          class="tss-o1rex0-TimelineItem-description-TimelineItem-descriptionReversedHorizontal"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Timeline Altering Should render vertical altering correctly 1`] = `
+<div
+  class="tss-1x61veu-Timeline-root-Timeline-rootVertical"
+>
+  <div
+    class="tss-11b0xik-Timeline-itemRoot-Timeline-itemRootAlteringVertical"
+  >
+    <div
+      class="tss-w7fxkf-TimelineItem-root-TimelineItem-rootVertical-TimelineItem-rootVerticalFirst-Timeline-itemAltering"
+    >
+      <div
+        class="tss-gdul64-TimelineItem-iconRoot-TimelineItem-iconRootCompleted"
+      >
+        <div
+          class="tss-1nb48n6-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconCompleted"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            check.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <div
+          class="tss-amgzz2-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Received
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            We have received your request.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-jxusbw-TimelineConnector-root-TimelineConnector-rootVertical-TimelineConnector-rootVerticalFirst-TimelineConnector-rootAlteringVertical"
+    >
+      <span
+        class="tss-1gec6cl-TimelineConnector-line-TimelineConnector-lineVertical-TimelineConnector-lineCompletedVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-124h17p-Timeline-itemRoot-Timeline-itemRootAlteringVertical-Timeline-itemRootReversedVertical"
+  >
+    <div
+      class="tss-16rblkj-TimelineItem-root-TimelineItem-rootVertical-TimelineItem-rootReversedVertical-Timeline-itemAltering"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-kpi8an-TimelineItem-textRoot-TimelineItem-textRootVertical-TimelineItem-textRootReversedVertical"
+      >
+        <div
+          class="tss-1cdoa1s-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Research
+          </span>
+        </div>
+        <div
+          class="tss-1vfwypy-TimelineItem-description-TimelineItem-descriptionReversedVertical"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-znueg4-TimelineConnector-root-TimelineConnector-rootVertical-TimelineConnector-rootAlteringVertical"
+    >
+      <span
+        class="tss-u9it0v-TimelineConnector-line-TimelineConnector-lineVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-11b0xik-Timeline-itemRoot-Timeline-itemRootAlteringVertical"
+  >
+    <div
+      class="tss-1h3yfw7-TimelineItem-root-TimelineItem-rootVertical-Timeline-itemAltering"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <p
+          class="tss-4-Typography-weightEmphasis-ref tss-1etnn86-Typography-root-Typography-weightEmphasis-TimelineItem-tagText-Typography-body400"
+        >
+          Resolved
+        </p>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Description line 2
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Third description
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-znueg4-TimelineConnector-root-TimelineConnector-rootVertical-TimelineConnector-rootAlteringVertical"
+    >
+      <span
+        class="tss-u9it0v-TimelineConnector-line-TimelineConnector-lineVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-124h17p-Timeline-itemRoot-Timeline-itemRootAlteringVertical-Timeline-itemRootReversedVertical"
+  >
+    <div
+      class="tss-1h9ngdc-TimelineItem-root-TimelineItem-rootVertical-TimelineItem-rootReversedVertical-TimelineItem-rootVerticalLast-Timeline-itemAltering"
+    >
+      <div
+        class="tss-118xdvf-TimelineItem-iconRoot-TimelineItem-iconRootWarning"
+      >
+        <div
+          class="tss-1riwgsj-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconWarning"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            exclamationTriangle.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-kpi8an-TimelineItem-textRoot-TimelineItem-textRootVertical-TimelineItem-textRootReversedVertical"
+      >
+        <div
+          class="tss-1alxtnv-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Resolved
+          </span>
+        </div>
+        <div
+          class="tss-1vfwypy-TimelineItem-description-TimelineItem-descriptionReversedVertical"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Timeline Should render correctly 1`] = `
+<div
+  class="tss-5vync9-Timeline-root-Timeline-rootHorizontal"
+>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-8gd8zi-TimelineItem-root-TimelineItem-rootHorizontal"
+    >
+      <div
+        class="tss-gdul64-TimelineItem-iconRoot-TimelineItem-iconRootCompleted"
+      >
+        <div
+          class="tss-1nb48n6-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconCompleted"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            check.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <div
+          class="tss-amgzz2-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Received
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            We have received your request.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1t5v62k-TimelineConnector-root-TimelineConnector-rootHorizontal"
+    >
+      <span
+        class="tss-1xqbue-TimelineConnector-line-TimelineConnector-lineHorizontal-TimelineConnector-lineCompletedHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-8gd8zi-TimelineItem-root-TimelineItem-rootHorizontal"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <div
+          class="tss-1cdoa1s-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Research
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1t5v62k-TimelineConnector-root-TimelineConnector-rootHorizontal"
+    >
+      <span
+        class="tss-72wrku-TimelineConnector-line-TimelineConnector-lineHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-8gd8zi-TimelineItem-root-TimelineItem-rootHorizontal"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <p
+          class="tss-4-Typography-weightEmphasis-ref tss-1etnn86-Typography-root-Typography-weightEmphasis-TimelineItem-tagText-Typography-body400"
+        >
+          Resolved
+        </p>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Description line 2
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Third description
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1t5v62k-TimelineConnector-root-TimelineConnector-rootHorizontal"
+    >
+      <span
+        class="tss-72wrku-TimelineConnector-line-TimelineConnector-lineHorizontal"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-8gd8zi-TimelineItem-root-TimelineItem-rootHorizontal"
+    >
+      <div
+        class="tss-118xdvf-TimelineItem-iconRoot-TimelineItem-iconRootWarning"
+      >
+        <div
+          class="tss-1riwgsj-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconWarning"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            exclamationTriangle.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-yz9ikp-TimelineItem-textRoot-TimelineItem-textRootHorizontal"
+      >
+        <div
+          class="tss-1alxtnv-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Resolved
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Timeline Should render vertical correctly 1`] = `
+<div
+  class="tss-1x61veu-Timeline-root-Timeline-rootVertical"
+>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-1qu6j5v-TimelineItem-root-TimelineItem-rootVertical-TimelineItem-rootVerticalFirst"
+    >
+      <div
+        class="tss-gdul64-TimelineItem-iconRoot-TimelineItem-iconRootCompleted"
+      >
+        <div
+          class="tss-1nb48n6-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconCompleted"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            check.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <div
+          class="tss-amgzz2-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Received
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            We have received your request.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-ezfsbh-TimelineConnector-root-TimelineConnector-rootVertical-TimelineConnector-rootVerticalFirst"
+    >
+      <span
+        class="tss-1gec6cl-TimelineConnector-line-TimelineConnector-lineVertical-TimelineConnector-lineCompletedVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-9r65z3-TimelineItem-root-TimelineItem-rootVertical"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <div
+          class="tss-1cdoa1s-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Research
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1sg7vas-TimelineConnector-root-TimelineConnector-rootVertical"
+    >
+      <span
+        class="tss-u9it0v-TimelineConnector-line-TimelineConnector-lineVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-9r65z3-TimelineItem-root-TimelineItem-rootVertical"
+    >
+      <div
+        class="tss-1vyb5d0-TimelineItem-iconRoot"
+      >
+        <div
+          class="tss-w4bxzw-Icon-root-Icon-sizeSm-TimelineItem-icon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            inbox.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <p
+          class="tss-4-Typography-weightEmphasis-ref tss-1etnn86-Typography-root-Typography-weightEmphasis-TimelineItem-tagText-Typography-body400"
+        >
+          Resolved
+        </p>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Description line 2
+          </p>
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Third description
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tss-1sg7vas-TimelineConnector-root-TimelineConnector-rootVertical"
+    >
+      <span
+        class="tss-u9it0v-TimelineConnector-line-TimelineConnector-lineVertical"
+      />
+    </div>
+  </div>
+  <div
+    class="tss-38v1m8-Timeline-itemRoot"
+  >
+    <div
+      class="tss-uyzw1u-TimelineItem-root-TimelineItem-rootVertical-TimelineItem-rootVerticalLast"
+    >
+      <div
+        class="tss-118xdvf-TimelineItem-iconRoot-TimelineItem-iconRootWarning"
+      >
+        <div
+          class="tss-1riwgsj-Icon-root-Icon-sizeSm-TimelineItem-icon-TimelineItem-iconWarning"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            exclamationTriangle.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="tss-ss52hq-TimelineItem-textRoot-TimelineItem-textRootVertical"
+      >
+        <div
+          class="tss-1alxtnv-Surface-root-StatusTag-root"
+        >
+          <span
+            class="tss-4-Typography-weightEmphasis-ref tss-crbbgc-Typography-root-Typography-weightEmphasis-Typography-body400"
+          >
+            Resolved
+          </span>
+        </div>
+        <div
+          class="tss-1sa0w2m-TimelineItem-description"
+        >
+          <p
+            class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+          >
+            Our researchers are looking for your parts.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

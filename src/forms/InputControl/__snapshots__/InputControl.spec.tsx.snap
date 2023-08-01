@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputControl Should render correctly 1`] = `
+<div>
+  <input
+    name="exampleField"
+    value=""
+  />
+  <span
+    role="alert"
+  />
+</div>
+`;

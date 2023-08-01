@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabNavigationScrollButton Should render correctly 1`] = `
+<button
+  class="MuiButtonBase-root tss-mlornr-ButtonBase-root-ButtonBase-focusInset-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+  tabindex="0"
+  type="button"
+>
+  <div
+    class="tss-4fpoey-Icon-root-Icon-sizeSm"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+      color="inherit"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      angleLeft.svg
+    </svg>
+  </div>
+</button>
+`;

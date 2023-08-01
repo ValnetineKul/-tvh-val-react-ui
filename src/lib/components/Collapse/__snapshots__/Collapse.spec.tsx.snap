@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Should render correctly 1`] = `
+<div
+  class="MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered mui-pwcg7p-MuiCollapse-root"
+  style="min-height: 0px;"
+>
+  <div
+    class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+  >
+    <div
+      class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+    >
+      <div>
+        children
+      </div>
+    </div>
+  </div>
+</div>
+`;

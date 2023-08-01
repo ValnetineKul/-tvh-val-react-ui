@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationItem Horizontal Should render correctly horizontal: horizontal 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root tss-q6zrpx-App-horizontalItem mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <a
+    aria-disabled="false"
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-7-App-horizontalButtonBase-ref tss-1ie5n30-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper-App-horizontalButtonBase mui-10d1a0h-MuiButtonBase-root"
+    href="/"
+    tabindex="0"
+  >
+    <div
+      class="tss-6-MenuItem-startIcon-ref tss-2hk6gu-Icon-root-Icon-sizeMd-MenuItem-startIcon"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        userCircle.svg
+      </svg>
+    </div>
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Label
+        </span>
+      </div>
+    </div>
+  </a>
+</li>
+`;
+
+exports[`NavigationItem Vertical Should render correctly vertical: vertical 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root tss-1usksdx-App-verticalItem mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <a
+    aria-disabled="false"
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    href="/"
+    tabindex="0"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Label
+        </span>
+      </div>
+    </div>
+  </a>
+</li>
+`;

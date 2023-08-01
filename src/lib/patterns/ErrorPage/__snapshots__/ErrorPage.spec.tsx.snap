@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorPage Should render correctly 1`] = `
+<div
+  class="tss-1jhkqwo-ErrorPage-root"
+>
+  <div
+    class="tss-xqoq3f-ErrorPage-contentWrapper"
+  >
+    <h1
+      class="tss-4-Typography-headerFunctional-ref tss-17gn1vr-Typography-root-Typography-headerFunctional-ErrorPage-header-Typography-h1"
+    >
+      header text
+    </h1>
+    <p
+      class="tss-4-Typography-weightRegular-ref tss-btk8fr-Typography-root-Typography-weightRegular-ErrorPage-description-Typography-body500"
+    >
+      description
+    </p>
+    <span
+      class="tss-4-Typography-weightRegular-ref tss-7kfyn5-Typography-root-Typography-weightRegular-ErrorPage-errorCode-ErrorPage-displayBlock-Typography-body500"
+    >
+      Error code: 
+      403
+    </span>
+    <h2
+      class="tss-4-Typography-headerFunctional-ref tss-1vj31bb-Typography-root-Typography-headerFunctional-ErrorPage-options-Typography-h2"
+    >
+      Here are some options for you:
+    </h2>
+    <ul
+      class="tss-1uc7xof-ErrorPage-links"
+    >
+      <li
+        class="tss-syhs26-ErrorPage-listItem"
+      >
+        <div
+          class="tss-1kammvl-Surface-root-Button-surface"
+        >
+          <div
+            class="tss-pyz8vm-SpinnerWithBackdrop-root"
+          >
+            <div
+              class=""
+            >
+              <button
+                class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-3-Button-variantLink-ref tss-3-Button-linkTypeDefault-ref tss-1rvfi8n-Button-root-Button-variantLink-Button-linkTypeDefault mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Previous page
+              </button>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li
+        class="tss-syhs26-ErrorPage-listItem"
+      >
+        <div
+          class="tss-1kammvl-Surface-root-Button-surface"
+        >
+          <div
+            class="tss-pyz8vm-SpinnerWithBackdrop-root"
+          >
+            <div
+              class=""
+            >
+              <a
+                aria-disabled="false"
+                class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-3-Button-variantLink-ref tss-3-Button-linkTypeDefault-ref tss-1rvfi8n-Button-root-Button-variantLink-Button-linkTypeDefault mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+                href="/"
+                tabindex="0"
+              >
+                Home page
+              </a>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li
+        class="tss-syhs26-ErrorPage-listItem"
+      >
+        <div
+          class="tss-1kammvl-Surface-root-Button-surface"
+        >
+          <div
+            class="tss-pyz8vm-SpinnerWithBackdrop-root"
+          >
+            <div
+              class=""
+            >
+              <a
+                aria-disabled="false"
+                class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-3-Button-variantLink-ref tss-3-Button-linkTypeDefault-ref tss-1rvfi8n-Button-root-Button-variantLink-Button-linkTypeDefault mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+                href="/"
+                tabindex="0"
+              >
+                Contact us
+              </a>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo Should render correctly 1`] = `
+<body>
+  <div>
+    <button
+      class="MuiButtonBase-root tss-1xk2c6w-ButtonBase-root-ButtonBase-focusOut-Logo-root mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <img
+        alt="Logo"
+        class="tss-iftyg6-Image-root-Logo-sizeSm"
+        src="positiveLogo.svg"
+      />
+    </button>
+  </div>
+</body>
+`;

@@ -1,0 +1,5 @@
+/dist
+/tmp
+/.coverage
+/storybook-static
+/node_modules

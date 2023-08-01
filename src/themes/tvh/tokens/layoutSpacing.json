@@ -1,0 +1,14 @@
+{
+  "spacing/100": "2px",
+  "spacing/200": "4px",
+  "spacing/300": "8px",
+  "spacing/350": "12px",
+  "spacing/400": "16px",
+  "spacing/450": "24px",
+  "spacing/500": "32px",
+  "spacing/525": "40px",
+  "spacing/550": "48px",
+  "spacing/600": "64px",
+  "spacing/700": "96px",
+  "spacing/000": "0px"
+}

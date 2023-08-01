@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SlantedContainer Should render correctly 1`] = `
+<body>
+  <div>
+    <div
+      class="tss-8mr7tx-SlantedContainer-root"
+    >
+      <div
+        class="tss-1j76svm-Surface-root-SlantedContainer-innerRoot-SlantedContainer-skewedStart-SlantedContainer-skewedEnd"
+      >
+        <div
+          class="tss-1w4qckr-SlantedContainer-paddingNone"
+        >
+          label
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

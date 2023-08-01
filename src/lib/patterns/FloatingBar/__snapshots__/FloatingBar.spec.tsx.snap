@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FloatingBar Should render correctly 1`] = `
+<div
+  class="tss-1oemesp-FloatingBar-root"
+>
+  <div
+    class="tss-1lcgc22-Surface-root-Surface-border-FloatingBar-floatingBar"
+  >
+    <div
+      class="tss-1ewaxwk-FloatingBar-label"
+    >
+      <div>
+        Label
+      </div>
+    </div>
+    <div
+      class="tss-1lmnn0g-FloatingBar-actionsWrapper"
+    >
+      <div>
+        Action Buttons
+      </div>
+    </div>
+  </div>
+</div>
+`;

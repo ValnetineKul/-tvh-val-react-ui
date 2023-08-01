@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem Should render correctly 1`] = `
+<li
+  class="tss-u5ccdm-ListItem-root-ListItem-unorderedRoot"
+>
+  ListItem Item
+</li>
+`;
+
+exports[`ListItem Should render with icon correctly 1`] = `
+<li
+  class="tss-1hn70pk-ListItem-root-ListItem-iconRoot"
+>
+  <div
+    class="tss-f2douv-Icon-root-Icon-sizeMd-ListItem-icon"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+      color="inherit"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      check.svg
+    </svg>
+  </div>
+  <div>
+    ListItem Item
+  </div>
+</li>
+`;

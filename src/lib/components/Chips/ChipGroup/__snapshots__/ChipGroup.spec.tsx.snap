@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChipGroup Should render correctly 1`] = `
+<ul
+  class="tss-1jia6s6-ChipGroup-root"
+>
+  <li>
+    <div>
+      Item 1
+    </div>
+  </li>
+  <li>
+    <div>
+      Item 2
+    </div>
+  </li>
+  <li>
+    <div>
+      Item 3
+    </div>
+  </li>
+</ul>
+`;

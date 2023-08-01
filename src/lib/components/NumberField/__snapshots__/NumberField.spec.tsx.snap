@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NumberField Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-16kerj4-TextField-root mui-1nrlq1o-MuiFormControl-root"
+>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl tss-10yfkph-TextField-inputRoot tss-10-TextField-inputRoot-ref mui-183rr2a-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <input
+        aria-invalid="false"
+        autocomplete="off"
+        class="tss-epi3qm-TextField-input MuiOutlinedInput-input MuiInputBase-input mui-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        inputmode="numeric"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

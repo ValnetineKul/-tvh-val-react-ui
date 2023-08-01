@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableFixedColumn Should render correctly 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-1loy8wm-TableCell-root-TableFixedColumn-root mui-68zd0u-MuiTableCell-root"
+        style="left: 0px;"
+      >
+        <div
+          class="tss-gfi776-TableCell-innerRoot tss-0-TableCell-innerRoot-ref"
+        >
+          Children
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-1loy8wm-TableCell-root-TableFixedColumn-root mui-68zd0u-MuiTableCell-root"
+        style="left: 0px;"
+      >
+        <div
+          class="tss-gfi776-TableCell-innerRoot tss-0-TableCell-innerRoot-ref"
+        >
+          Children
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`TableFixedColumn Should render position end correctly 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-1loy8wm-TableCell-root-TableFixedColumn-root mui-68zd0u-MuiTableCell-root"
+        style="right: 0px;"
+      >
+        <div
+          class="tss-gfi776-TableCell-innerRoot tss-0-TableCell-innerRoot-ref"
+        >
+          Children
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-1loy8wm-TableCell-root-TableFixedColumn-root mui-68zd0u-MuiTableCell-root"
+        style="right: 0px;"
+      >
+        <div
+          class="tss-gfi776-TableCell-innerRoot tss-0-TableCell-innerRoot-ref"
+        >
+          Children
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

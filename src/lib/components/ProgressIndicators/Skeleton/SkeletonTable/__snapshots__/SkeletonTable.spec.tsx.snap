@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SkeletonTable Should render correctly: SkeletonTable 1`] = `
+<div
+  data-testid="skeleton-table"
+>
+  <div
+    class="MuiTableContainer-root mui-rorn0c-MuiTableContainer-root tss-1giqlv2-Surface-root-TableContainer-root"
+  >
+    <table
+      class="MuiTable-root MuiTable-stickyHeader tss-12i0kxp-Table-root mui-1u90bpa-MuiTable-root"
+    >
+      <thead
+        class="tss-1q9inhp-TableHead-root MuiTableHead-root mui-15wwp11-MuiTableHead-root"
+      >
+        <tr
+          class="tss-18gbisn-TableRow-root MuiTableRow-root MuiTableRow-head mui-1q1u3t4-MuiTableRow-root"
+        >
+          <th
+            class="MuiTableCell-root tss-1cg92jv-TableCell-head MuiTableCell-head tss-wq1z2g-TableCell-stickyHeader MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1i7z953-MuiTableCell-root"
+            scope="col"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1qj49ep-SkeletonTable-tableHead mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </th>
+          <th
+            class="MuiTableCell-root tss-1cg92jv-TableCell-head MuiTableCell-head tss-wq1z2g-TableCell-stickyHeader MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1i7z953-MuiTableCell-root"
+            scope="col"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1qj49ep-SkeletonTable-tableHead mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </th>
+          <th
+            class="MuiTableCell-root tss-1cg92jv-TableCell-head MuiTableCell-head tss-wq1z2g-TableCell-stickyHeader MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1i7z953-MuiTableCell-root"
+            scope="col"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1qj49ep-SkeletonTable-tableHead mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </th>
+          <th
+            class="MuiTableCell-root tss-1cg92jv-TableCell-head MuiTableCell-head tss-wq1z2g-TableCell-stickyHeader MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1i7z953-MuiTableCell-root"
+            scope="col"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1qj49ep-SkeletonTable-tableHead mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </th>
+          <th
+            class="MuiTableCell-root tss-1cg92jv-TableCell-head MuiTableCell-head tss-wq1z2g-TableCell-stickyHeader MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1i7z953-MuiTableCell-root"
+            scope="col"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-1qj49ep-SkeletonTable-tableHead mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="MuiTableBody-root mui-apqrd9-MuiTableBody-root"
+      >
+        <tr
+          class="tss-18gbisn-TableRow-root MuiTableRow-root mui-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+        </tr>
+        <tr
+          class="tss-18gbisn-TableRow-root MuiTableRow-root mui-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+        </tr>
+        <tr
+          class="tss-18gbisn-TableRow-root MuiTableRow-root mui-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root tss-5vks2j-TableCell-body MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-1y0jb3z-MuiTableCell-root"
+          >
+            <div
+              class="tss-gfi776-TableCell-innerRoot tss-12-TableCell-innerRoot-ref"
+            >
+              <span
+                class="MuiSkeleton-root MuiSkeleton-rectangular MuiSkeleton-wave tss-a3ojbr-SkeletonTable-tableBody mui-1slz293-MuiSkeleton-root"
+              />
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

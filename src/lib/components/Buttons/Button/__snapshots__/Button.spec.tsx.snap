@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Should render correctly 1`] = `
+<div
+  class="tss-1bm80c1-Surface-root-Button-surface"
+>
+  <div
+    class="tss-pyz8vm-SpinnerWithBackdrop-root"
+  >
+    <div
+      class=""
+    >
+      <button
+        class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-disableElevation MuiButtonBase-root tss-1ipqsyw-Button-root-Button-sizeMd-Button-button mui-10gi7f1-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Label
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chip Should render correctly 1`] = `
+<div
+  class="tss-1peyfo4-Chip-wrapper"
+>
+  <button
+    class="MuiButtonBase-root tss-2-Chip-root-ref tss-1ru1g5k-ButtonBase-root-ButtonBase-border-ButtonBase-focusOut-Chip-root mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="tss-1-Typography-weightRegular-ref tss-tmy3af-Typography-root-Typography-weightRegular-Typography-body400"
+    >
+      Label
+    </span>
+  </button>
+</div>
+`;

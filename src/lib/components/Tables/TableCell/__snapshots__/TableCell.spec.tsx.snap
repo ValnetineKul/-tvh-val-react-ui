@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableCell Should render correctly 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignLeft MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-68zd0u-MuiTableCell-root"
+      >
+        <div
+          class="tss-gfi776-TableCell-innerRoot tss-0-TableCell-innerRoot-ref"
+        >
+          Children
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td
+        class="MuiTableCell-root MuiTableCell-alignRight MuiTableCell-sizeMedium tss-3jd96d-TableCell-root mui-eumblh-MuiTableCell-root"
+      >
+        <div
+          class="tss-0-TableCell-innerRoot-ref tss-o36zwr-TableCell-innerRoot-TableCell-innerRootNumeric"
+        >
+          Children
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

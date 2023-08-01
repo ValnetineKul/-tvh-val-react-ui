@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog Should render correctly 1`] = `
+<body
+  style="padding-right: 1024px; overflow: hidden;"
+>
+  <div
+    aria-hidden="true"
+  />
+  <div
+    class="MuiModal-root tss-1fyp359-Modal-root MuiDialog-root mui-zw3mfo-MuiModal-root-MuiDialog-root"
+    role="presentation"
+  >
+    <div
+      class="tss-btvgcx-Scrim-root"
+    >
+      <div
+        aria-hidden="true"
+        class="MuiBackdrop-root tss-ghinzr-Scrim-backdropRoot-Scrim-rootDark-Modal-backdrop mui-yiavyu-MuiBackdrop-root-MuiDialog-backdrop"
+        style="opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      />
+    </div>
+    <div
+      data-test="sentinelStart"
+      tabindex="0"
+    />
+    <div
+      class="MuiDialog-container MuiDialog-scrollPaper mui-hz1bth-MuiDialog-container"
+      role="presentation"
+      style="width: 100%; webkit-transform: none; transform: none; webkit-transition: -webkit-transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms; transition: transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;"
+      tabindex="-1"
+    >
+      <div
+        aria-labelledby="dialog-title"
+        class="MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullScreen mui-1kfceu2-MuiDialog-paper tss-b5dlcr-Surface-root-Modal-paper"
+        role="dialog"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h6 MuiDialogTitle-root tss-1u1hkf4-Modal-title mui-1pxj1do-MuiTypography-root-MuiDialogTitle-root"
+          id="dialog-title"
+        >
+          <span
+            class="tss-6-Typography-headerFunctional-ref tss-1rwf52o-Typography-root-Typography-headerFunctional-Modal-titleText-Typography-h4"
+          >
+            Dialog header
+          </span>
+        </h2>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+        />
+      </div>
+    </div>
+    <div
+      data-test="sentinelEnd"
+      tabindex="0"
+    />
+  </div>
+</body>
+`;

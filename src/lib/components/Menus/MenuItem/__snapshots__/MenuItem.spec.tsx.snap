@@ -1,0 +1,419 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuItem Should render stories correctly story: "checkbox with tag": checkbox with tag 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <label
+    class="tss-n075z2-Checkbox-root MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd mui-j204z7-MuiFormControlLabel-root"
+  >
+    <span
+      class="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root tss-hpetsa-Checkbox-checkbox mui-355xbt-MuiButtonBase-root-MuiCheckbox-root"
+    >
+      <input
+        class="PrivateSwitchBase-input mui-1m9pwf3"
+        data-indeterminate="false"
+        type="checkbox"
+      />
+      <span
+        class="tss-1vu0oqh-Checkbox-icon-Checkbox-unchecked"
+        font-size="medium"
+      />
+    </span>
+    <span
+      class="MuiTypography-root MuiTypography-body1 tss-5-Checkbox-label-ref tss-fxezff-Checkbox-label-MenuItem-label MuiFormControlLabel-label mui-b600p5-MuiTypography-root"
+    >
+      <span
+        class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+      >
+        <span
+          class="tss-1030q1d-MenuItem-checkboxWithTagWrapper"
+        >
+          <div
+            class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+            data-mui-internal-clone-element="true"
+          >
+            <span
+              class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+            >
+              Item Label
+            </span>
+          </div>
+          <div
+            class="tss-6-MenuItem-tag-ref tss-4u6r2-Tag-root-Tag-colorPrimary-MenuItem-tag"
+          >
+            <span
+              class="tss-0-Typography-weightRegular-ref tss-j8p12z-Typography-root-Typography-weightRegular-Typography-body400"
+            >
+              123
+            </span>
+          </div>
+        </span>
+      </span>
+    </span>
+  </label>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "checkbox": checkbox 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <label
+    class="tss-n075z2-Checkbox-root MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd mui-j204z7-MuiFormControlLabel-root"
+  >
+    <span
+      class="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root tss-hpetsa-Checkbox-checkbox mui-355xbt-MuiButtonBase-root-MuiCheckbox-root"
+    >
+      <input
+        class="PrivateSwitchBase-input mui-1m9pwf3"
+        data-indeterminate="false"
+        type="checkbox"
+      />
+      <span
+        class="tss-1vu0oqh-Checkbox-icon-Checkbox-unchecked"
+        font-size="medium"
+      />
+    </span>
+    <span
+      class="MuiTypography-root MuiTypography-body1 tss-5-Checkbox-label-ref tss-fxezff-Checkbox-label-MenuItem-label MuiFormControlLabel-label mui-b600p5-MuiTypography-root"
+    >
+      <span
+        class="tss-0-Typography-weightRegular-ref tss-6tt2d9-Typography-root-Typography-weightRegular-Typography-body500"
+      >
+        <div
+          class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+          data-mui-internal-clone-element="true"
+        >
+          <span
+            class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+          >
+            Item Label
+          </span>
+        </div>
+      </span>
+    </span>
+  </label>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "component": component 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div>
+        Component Label
+      </div>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "end icon": end icon 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+    </div>
+    <div
+      class="tss-6-MenuItem-endIcon-ref tss-1q0x03j-Icon-root-Icon-sizeMd-MenuItem-endIcon"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        angleRight.svg
+      </svg>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "inline message": inline message 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+    </div>
+    <div
+      class="tss-7-InlineMessage-sizeSm-ref tss-6-MenuItem-inlineMessage-ref tss-1cx58eo-InlineMessage-root-InlineMessage-sizeSm-InlineMessage-statusSuccess-MenuItem-inlineMessage"
+    >
+      <div
+        class="tss-7-InlineMessage-icon-ref tss-3c0qi4-Icon-root-Icon-sizeSm-InlineMessage-icon"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+          color="inherit"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          checkCircle.svg
+        </svg>
+      </div>
+      <div>
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1r4pp6w-Typography-root-Typography-weightRegular-InlineMessage-message-Typography-body400"
+        >
+          Success message
+        </span>
+      </div>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "start icon with sub label": start icon with sub label 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-6-MenuItem-startIcon-ref tss-2hk6gu-Icon-root-Icon-sizeMd-MenuItem-startIcon"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        fileDownload.svg
+      </svg>
+    </div>
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-9b17g2-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <div
+          class="tss-0-Typography-weightRegular-ref tss-6-MenuItem-subLabel-ref tss-3u963p-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-MenuItem-subLabel-Typography-body400-Typography-secondary"
+        >
+          Extra info
+        </div>
+      </div>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "start icon": start icon 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-6-MenuItem-startIcon-ref tss-2hk6gu-Icon-root-Icon-sizeMd-MenuItem-startIcon"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+        color="inherit"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        fileDownload.svg
+      </svg>
+    </div>
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "sub label": sub label 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-9b17g2-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <div
+          class="tss-0-Typography-weightRegular-ref tss-6-MenuItem-subLabel-ref tss-3u963p-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-MenuItem-subLabel-Typography-body400-Typography-secondary"
+        >
+          Extra info
+        </div>
+      </div>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "tag": tag 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+    </div>
+    <div
+      class="tss-6-MenuItem-tag-ref tss-4u6r2-Tag-root-Tag-colorPrimary-MenuItem-tag"
+    >
+      <span
+        class="tss-0-Typography-weightRegular-ref tss-j8p12z-Typography-root-Typography-weightRegular-Typography-body400"
+      >
+        123
+      </span>
+    </div>
+  </button>
+</li>
+`;
+
+exports[`MenuItem Should render stories correctly story: "text": text 1`] = `
+<li
+  class="tss-1qfvypo-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+  role="menuitem"
+  tabindex="-1"
+>
+  <button
+    class="MuiButtonBase-root tss-6-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+    >
+      <div
+        class="tss-0-Typography-weightRegular-ref tss-10hdle-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <span
+          class="tss-0-Typography-weightRegular-ref tss-1hhfpop-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+        >
+          Item Label
+        </span>
+      </div>
+    </div>
+  </button>
+</li>
+`;

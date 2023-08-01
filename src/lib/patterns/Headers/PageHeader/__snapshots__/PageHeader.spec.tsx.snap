@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageHeader Should render correctly 1`] = `
+<div
+  class="tss-izmcvv-PageHeader-root"
+>
+  <div>
+    <div
+      class="tss-10kq6p1-PageHeader-titleWrapper"
+    >
+      <div
+        class="tss-wvfgba-PageHeader-title"
+      >
+        <h1
+          class="tss-0-Typography-headerFunctional-ref tss-2gy56n-Typography-root-Typography-headerFunctional-PageHeader-titleWithTag-Typography-h1"
+        >
+          Page Header Title
+        </h1>
+        <div
+          class="tss-13wpase-PageHeader-tagWrapper"
+        >
+          <div>
+            Tag
+          </div>
+        </div>
+      </div>
+    </div>
+    <p
+      class="tss-0-Typography-weightRegular-ref tss-i7t8ff-Typography-root-Typography-weightRegular-PageHeader-subtitle-Typography-body500"
+    >
+      Subtitle
+    </p>
+  </div>
+  <div
+    class="tss-4kddf4-PageHeader-actionsWrapper"
+  >
+    <div>
+      Action Buttons
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableContainer Should render correctly 1`] = `
+<div
+  class="MuiTableContainer-root mui-rorn0c-MuiTableContainer-root tss-1giqlv2-Surface-root-TableContainer-root"
+>
+  Children
+</div>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SectionHeader Should render correctly 1`] = `
+<div
+  class="tss-1csbc1i-SectionHeader-root-SectionHeader-multilineRoot"
+>
+  <div>
+    <h2
+      class="tss-0-Typography-headerFunctional-ref tss-cfhra3-Typography-root-Typography-headerFunctional-SectionHeader-title-Typography-h2"
+    >
+      Section Header Title
+    </h2>
+  </div>
+  <div
+    class="tss-yjkaj3-SectionHeader-actionsWrapper-SectionHeader-multilineActionWrappper"
+  >
+    <div>
+      Action Buttons
+    </div>
+  </div>
+</div>
+`;

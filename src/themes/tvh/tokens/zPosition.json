@@ -1,0 +1,12 @@
+{
+  "beneath": -1,
+  "base": 0,
+  "actionElement": 1000,
+  "panel": 1050,
+  "header": 1100,
+  "drawer": 1200,
+  "modal": 1300,
+  "dropdown": 1400,
+  "popover": 1500,
+  "tooltip": 1600
+}

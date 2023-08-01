@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Drawer Should render stories correctly story: "heading with start button": heading with start button 1`] = `
+<div
+  class="tss-z4jt7l-Surface-root"
+>
+  <div
+    class="tss-zcjtpr-DrawerHeader-header"
+  >
+    <div
+      class="tss-1magt3-DrawerHeader-headingWrapper"
+    >
+      <button
+        aria-label="back"
+        class="MuiButtonBase-root tss-7kteag-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="tss-w1sjks-Icon-root-Icon-sizeMd"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            angleLeft.svg
+          </svg>
+        </div>
+      </button>
+      <div
+        aria-label="Main navigation"
+        class="tss-3-Typography-weightRegular-ref tss-1jbpm2b-Typography-root-Typography-weightRegular-Tooltip-wrapper-DrawerHeader-truncatedHeading-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <h4
+          class="tss-3-Typography-headerFunctional-ref tss-1vfq91l-Typography-root-Typography-headerFunctional-DrawerHeader-truncatedHeading-DrawerHeader-heading-Typography-h4"
+        >
+          Main navigation
+        </h4>
+      </div>
+    </div>
+    <button
+      aria-label="close"
+      class="MuiButtonBase-root tss-7kteag-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-w1sjks-Icon-root-Icon-sizeMd"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+          color="inherit"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          times.svg
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Drawer Should render stories correctly story: "heading": heading 1`] = `
+<div
+  class="tss-z4jt7l-Surface-root"
+>
+  <div
+    class="tss-zcjtpr-DrawerHeader-header"
+  >
+    <div
+      class="tss-1magt3-DrawerHeader-headingWrapper"
+    >
+      <div
+        aria-label="Main navigation"
+        class="tss-3-Typography-weightRegular-ref tss-1jbpm2b-Typography-root-Typography-weightRegular-Tooltip-wrapper-DrawerHeader-truncatedHeading-Typography-body400"
+        data-mui-internal-clone-element="true"
+      >
+        <h4
+          class="tss-3-Typography-headerFunctional-ref tss-1r52m5v-Typography-root-Typography-headerFunctional-DrawerHeader-truncatedHeading-Typography-h4"
+        >
+          Main navigation
+        </h4>
+      </div>
+    </div>
+    <button
+      aria-label="close"
+      class="MuiButtonBase-root tss-7kteag-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-w1sjks-Icon-root-Icon-sizeMd"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+          color="inherit"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          times.svg
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Drawer Should render stories correctly story: "logo": logo 1`] = `
+<div
+  class="tss-z4jt7l-Surface-root"
+>
+  <div
+    class="tss-zcjtpr-DrawerHeader-header"
+  >
+    <button
+      class="MuiButtonBase-root tss-x4btvw-ButtonBase-root-ButtonBase-focusOut-Logo-root mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <img
+        alt="Logo"
+        class="tss-iftyg6-Image-root-Logo-sizeSm"
+        src="negativeLogo.svg"
+      />
+    </button>
+    <button
+      aria-label="close"
+      class="MuiButtonBase-root tss-7kteag-ButtonBase-root-ButtonBase-focusOut-IconButton-root mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-w1sjks-Icon-root-Icon-sizeMd"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+          color="inherit"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          times.svg
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+`;

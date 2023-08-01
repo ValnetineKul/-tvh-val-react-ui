@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropdownMenu Should render menu items 1`] = `
+<ul
+  class="MuiList-root MuiList-padding tss-1j2rezf-DropdownMenu-menu-DropdownMenu-menuList-DropdownMenu-dynamicList mui-h4y409-MuiList-root"
+  role="menu"
+  tabindex="-1"
+>
+  <li
+    class="tss-1fx4f83-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+    role="menuitem"
+    tabindex="-1"
+  >
+    <button
+      class="MuiButtonBase-root tss-7-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+      >
+        <div
+          class="tss-1-Typography-weightRegular-ref tss-m39tug-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+          data-mui-internal-clone-element="true"
+        >
+          <span
+            class="tss-1-Typography-weightRegular-ref tss-b5vov3-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+          >
+            item_1
+          </span>
+        </div>
+      </div>
+    </button>
+  </li>
+  <li
+    class="tss-1fx4f83-MenuItem-root MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root  mui-t7a2rv-MuiButtonBase-root-MuiMenuItem-root"
+    role="menuitem"
+    tabindex="-1"
+  >
+    <button
+      class="MuiButtonBase-root tss-7-MenuItem-wrapper-ref tss-19jpft6-ButtonBase-root-ButtonBase-focusInset-MenuItem-wrapper mui-10d1a0h-MuiButtonBase-root"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-sqs6xo-MenuItem-labelWrapper-MenuItem-label"
+      >
+        <div
+          class="tss-1-Typography-weightRegular-ref tss-m39tug-Typography-root-Typography-weightRegular-Tooltip-wrapper-TruncatedText-truncatedText-MenuItem-label-Typography-body400"
+          data-mui-internal-clone-element="true"
+        >
+          <span
+            class="tss-1-Typography-weightRegular-ref tss-b5vov3-Typography-root-Typography-weightRegular-TruncatedText-truncatedText-Typography-body500"
+          >
+            item_2
+          </span>
+        </div>
+      </div>
+    </button>
+  </li>
+</ul>
+`;

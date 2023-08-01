@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InlineMessage Should render correctly 1`] = `
+<div
+  class="tss-2-InlineMessage-sizeMd-ref tss-1cy8mf0-InlineMessage-root-InlineMessage-sizeMd-InlineMessage-statusInfo"
+>
+  <div
+    class="tss-2-InlineMessage-icon-ref tss-mtkcbw-Icon-root-Icon-sizeMd-InlineMessage-icon"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+      color="inherit"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      infoCircle.svg
+    </svg>
+  </div>
+  <div>
+    <span
+      class="tss-1-Typography-weightRegular-ref tss-103ldgd-Typography-root-Typography-weightRegular-InlineMessage-message-Typography-body500"
+    >
+      Inline message
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Should render correctly 1`] = `
+<div
+  class="tss-zxubot-Navigation-root"
+>
+  <ul
+    class="MuiList-root MuiList-padding tss-17qd6i6-Navigation-list mui-h4y409-MuiList-root"
+    role="menu"
+    tabindex="-1"
+  >
+    Children
+  </ul>
+</div>
+`;

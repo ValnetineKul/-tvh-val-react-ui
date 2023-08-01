@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox Should render correctly 1`] = `
+<label
+  class="tss-fawwdb-Checkbox-root MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd mui-j204z7-MuiFormControlLabel-root"
+>
+  <span
+    class="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root tss-hpetsa-Checkbox-checkbox mui-355xbt-MuiButtonBase-root-MuiCheckbox-root"
+  >
+    <input
+      class="PrivateSwitchBase-input mui-1m9pwf3"
+      data-indeterminate="false"
+      type="checkbox"
+    />
+    <span
+      class="tss-1vu0oqh-Checkbox-icon-Checkbox-unchecked"
+      font-size="medium"
+    />
+  </span>
+  <span
+    class="MuiTypography-root MuiTypography-body1 tss-8ylfha-Checkbox-label tss-2-Checkbox-label-ref MuiFormControlLabel-label mui-b600p5-MuiTypography-root"
+  >
+    <span
+      class="tss-1-Typography-weightRegular-ref tss-1a4rxa0-Typography-root-Typography-weightRegular-Typography-body500"
+    >
+      Checkbox label
+    </span>
+  </span>
+</label>
+`;

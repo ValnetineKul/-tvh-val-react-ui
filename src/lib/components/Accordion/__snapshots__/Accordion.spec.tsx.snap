@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion Should render correctly 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 tss-1t7zslm-Accordion-itemRoot MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters mui-1elwnq4-MuiPaper-root-MuiAccordion-root"
+  >
+    <button
+      aria-controls="accordion_panel_first"
+      aria-expanded="false"
+      class="MuiButtonBase-root MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters tss-ecggy1-ButtonBase-root-ButtonBase-focusInset-AccordionSummary-summary mui-6a0xca-MuiButtonBase-root-MuiButtonBase-root-MuiAccordionSummary-root"
+      id="accordion_panel_first"
+      role="button"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-hsuwam-AccordionSummary-content MuiAccordionSummary-content MuiAccordionSummary-contentGutters mui-o4b71y-MuiAccordionSummary-content"
+      >
+        <div
+          class="tss-1wm0ng0-Badge-root-Badge-fullWidth"
+        >
+          <h4
+            class="tss-4-Typography-headerFunctional-ref tss-3eb4ku-Typography-root-Typography-headerFunctional-AccordionSummary-title-Typography-h4"
+          >
+            First accordion
+          </h4>
+        </div>
+      </div>
+      <div
+        class="tss-1emsvu8-AccordionSummary-expandIcon MuiAccordionSummary-expandIconWrapper mui-yw020d-MuiAccordionSummary-expandIconWrapper"
+      >
+        <div
+          class="tss-w1sjks-Icon-root-Icon-sizeMd"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            plus.svg
+          </svg>
+        </div>
+      </div>
+    </button>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden mui-bz4dnt-MuiCollapse-root"
+      style="min-height: 0px;"
+    >
+      <div
+        class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+      >
+        <div
+          class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+        >
+          <div
+            aria-labelledby="accordion_panel_first"
+            class="MuiAccordion-region"
+            role="region"
+          >
+            <div
+              class="tss-8l70s6-Surface-root"
+            >
+              <div
+                class="tss-ag2477-Accordion-contentRoot-Accordion-textContentRoot MuiAccordionDetails-root mui-15v22id-MuiAccordionDetails-root"
+              >
+                Accordion 1 content
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 tss-1t7zslm-Accordion-itemRoot MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters mui-1elwnq4-MuiPaper-root-MuiAccordion-root"
+  >
+    <button
+      aria-controls="accordion_panel_second"
+      aria-expanded="false"
+      class="MuiButtonBase-root MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters tss-ecggy1-ButtonBase-root-ButtonBase-focusInset-AccordionSummary-summary mui-6a0xca-MuiButtonBase-root-MuiButtonBase-root-MuiAccordionSummary-root"
+      id="accordion_panel_second"
+      role="button"
+      tabindex="0"
+      type="button"
+    >
+      <div
+        class="tss-hsuwam-AccordionSummary-content MuiAccordionSummary-content MuiAccordionSummary-contentGutters mui-o4b71y-MuiAccordionSummary-content"
+      >
+        <div
+          class="tss-1wm0ng0-Badge-root-Badge-fullWidth"
+        >
+          <h4
+            class="tss-4-Typography-headerFunctional-ref tss-3eb4ku-Typography-root-Typography-headerFunctional-AccordionSummary-title-Typography-h4"
+          >
+            Second accordion
+          </h4>
+        </div>
+      </div>
+      <div
+        class="tss-1emsvu8-AccordionSummary-expandIcon MuiAccordionSummary-expandIconWrapper mui-yw020d-MuiAccordionSummary-expandIconWrapper"
+      >
+        <div
+          class="tss-w1sjks-Icon-root-Icon-sizeMd"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            plus.svg
+          </svg>
+        </div>
+      </div>
+    </button>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden mui-bz4dnt-MuiCollapse-root"
+      style="min-height: 0px;"
+    >
+      <div
+        class="MuiCollapse-wrapper MuiCollapse-vertical mui-smkl36-MuiCollapse-wrapper"
+      >
+        <div
+          class="MuiCollapse-wrapperInner MuiCollapse-vertical mui-9l5vo-MuiCollapse-wrapperInner"
+        >
+          <div
+            aria-labelledby="accordion_panel_second"
+            class="MuiAccordion-region"
+            role="region"
+          >
+            <div
+              class="tss-8l70s6-Surface-root"
+            >
+              <div
+                class="tss-ag2477-Accordion-contentRoot-Accordion-textContentRoot MuiAccordionDetails-root mui-15v22id-MuiAccordionDetails-root"
+              >
+                Accordion 2 content
+              </div>
+              <hr
+                class="MuiDivider-root MuiDivider-fullWidth tss-1pam8iy-Divider-root-Divider-horizontal mui-9mgopn-MuiDivider-root"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

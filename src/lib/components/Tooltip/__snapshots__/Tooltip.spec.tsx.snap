@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip Should render correctly 1`] = `
+<div
+  aria-label="Label"
+  class="tss-0-Typography-weightRegular-ref tss-ckuc4r-Typography-root-Typography-weightRegular-Tooltip-wrapper-Typography-body400"
+  data-mui-internal-clone-element="true"
+>
+  123
+</div>
+`;

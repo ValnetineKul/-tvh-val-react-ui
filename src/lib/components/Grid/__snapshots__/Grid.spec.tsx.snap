@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid Should render correctly 1`] = `
+<div
+  class="tss-182wadi-Grid-container"
+>
+  <div
+    class="tss-rdbtdk-Grid-item tss-0-Grid-item-ref"
+  >
+    <div>
+      children
+    </div>
+  </div>
+</div>
+`;

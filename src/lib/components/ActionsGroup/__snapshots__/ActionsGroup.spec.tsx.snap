@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionsGroup Should render correctly on the Desktop: ActionsGroup desktop 1`] = `
+<ul
+  class="tss-y1q3yg-ActionsGroup-root-ActionsGroup-reversedList"
+>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      class=""
+      type="button"
+    >
+      Button 1
+    </button>
+  </li>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      class=""
+      type="button"
+    >
+      Button 2
+    </button>
+  </li>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      type="button"
+    >
+      IconButton 1
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`ActionsGroup Should render correctly on the Mobile: ActionsGroup mobile 1`] = `
+<ul
+  class="tss-1n9rhgh-ActionsGroup-root-ActionsGroup-startAlinment"
+>
+  <li
+    class="tss-11kknj0-ActionsGroup-actionWrapper-ActionsGroup-buttonWrapperMobile"
+  >
+    <button
+      class="full"
+      type="button"
+    >
+      Button 1
+    </button>
+  </li>
+  <li
+    class="tss-1h74icw-ActionsGroup-actionWrapper-ActionsGroup-buttonWrapperMobile-ActionsGroup-lastButtonWrapperMobile"
+  >
+    <button
+      class="full"
+      type="button"
+    >
+      Button 2
+    </button>
+  </li>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      type="button"
+    >
+      IconButton 1
+    </button>
+  </li>
+</ul>
+`;
+
+exports[`ActionsGroup Should render correctly on the Tablet: ActionsGroup tablet 1`] = `
+<ul
+  class="tss-5cypwz-ActionsGroup-root"
+>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      class=""
+      type="button"
+    >
+      Button 1
+    </button>
+  </li>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      class=""
+      type="button"
+    >
+      Button 2
+    </button>
+  </li>
+  <li
+    class="tss-aagoa-ActionsGroup-actionWrapper"
+  >
+    <button
+      type="button"
+    >
+      IconButton 1
+    </button>
+  </li>
+</ul>
+`;

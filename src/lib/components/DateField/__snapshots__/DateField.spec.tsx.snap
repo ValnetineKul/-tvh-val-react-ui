@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DateField Should render correctly 1`] = `
+<div
+  class="MuiFormControl-root tss-10-TextField-withStartIcon-ref tss-10-TextField-withStartAdornment-ref tss-10-TextField-withLabel-ref tss-j4e58v-TextField-root-TextField-withStartIcon-TextField-withStartAdornment-TextField-withLabel mui-1nrlq1o-MuiFormControl-root"
+>
+  <span
+    class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary tss-tsk5sp-InputLabel-root-TextField-label mui-xlr99k-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink="false"
+  >
+    <span
+      class="tss-4-Typography-weightRegular-ref tss-11m6um9-Typography-root-Typography-weightRegular-InputLabel-label-Typography-body400"
+    >
+      label
+    </span>
+  </span>
+  <div
+    class="tss-bdw984-Surface-root"
+  >
+    <div
+      class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedStart tss-10-TextField-inputRoot-ref tss-11lw9i6-TextField-inputRoot-TextField-adornedStart mui-ha1n7c-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <div
+        class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium tss-10-TextField-adornment-ref tss-1mcfx9-InputAdornment-root-TextField-adornment-TextField-startIcon mui-ittuaa-MuiInputAdornment-root"
+      >
+        <span
+          class="notranslate"
+        >
+          ​
+        </span>
+        <div
+          class="tss-w1sjks-Icon-root-Icon-sizeMd"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium mui-i4bv87-MuiSvgIcon-root"
+            color="inherit"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            calendar.svg
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root MuiTextField-root tss-dr5u7f-DateTextField-adornmentInputRoot mui-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+      >
+        <label
+          class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary tss-gx6y4z-DateTextField-visuallyHidden mui-31xe4q-MuiFormLabel-root-MuiInputLabel-root"
+          data-shrink="true"
+          for="start-date"
+        >
+          Start date
+        </label>
+        <div
+          class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl mui-183rr2a-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <input
+            aria-invalid="false"
+            autocomplete="off"
+            class="MuiOutlinedInput-input MuiInputBase-input mui-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+            id="start-date"
+            placeholder="dd/mm/yyyy"
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="mui-1z7n62"
+            >
+              <span>
+                Start date
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium tss-10-TextField-adornment-ref tss-tag05a-InputAdornment-root-TextField-adornment-TextField-prefix-InputAdornment-adjustToBottom mui-ittuaa-MuiInputAdornment-root"
+      >
+        <span
+          class="notranslate"
+        >
+          ​
+        </span>
+        <div
+          class="tss-4-Typography-weightRegular-ref tss-1wgx2pq-Typography-root-Typography-weightRegular-Typography-body500"
+        >
+          to
+        </div>
+      </div>
+      <label
+        class="tss-gx6y4z-DateTextField-visuallyHidden"
+        for="end-date"
+      >
+        End date
+      </label>
+      <div
+        aria-invalid="false"
+        aria-label="Choose date"
+        aria-readonly="true"
+        class="MuiInputBase-root MuiInputBase-colorPrimary MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedStart tss-18k3wr1-DateTextField-adornmentInputRoot-DateTextField-input-TextField-input mui-15nd16p-MuiInputBase-root-MuiInputBase-input-MuiOutlinedInput-input"
+      >
+        <input
+          class="MuiInputBase-input mui-yz9k0d-MuiInputBase-input"
+          id="end-date"
+          placeholder="dd/mm/yyyy"
+          type="text"
+          value=""
+        />
+      </div>
+      <fieldset
+        aria-hidden="true"
+        class="tss-tyiogj-TextField-notchedOutline tss-10-TextField-notchedOutline-ref MuiOutlinedInput-notchedOutline mui-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="mui-nnbavb"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <div
+    class="tss-19z6szl-TextField-helpers"
+  />
+</div>
+`;

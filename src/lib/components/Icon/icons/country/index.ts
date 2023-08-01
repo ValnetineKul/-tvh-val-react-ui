@@ -1,0 +1,14 @@
+export { ReactComponent as Australia } from './svg/australia.svg';
+export { ReactComponent as Belarus } from './svg/belarus.svg';
+export { ReactComponent as Belgium } from './svg/belgium.svg';
+export { ReactComponent as China } from './svg/china.svg';
+export { ReactComponent as Cyprus } from './svg/cyprus.svg';
+export { ReactComponent as Denmark } from './svg/denmark.svg';
+export { ReactComponent as England } from './svg/england.svg';
+export { ReactComponent as France } from './svg/france.svg';
+export { ReactComponent as Germany } from './svg/germany.svg';
+export { ReactComponent as India } from './svg/india.svg';
+export { ReactComponent as Mexico } from './svg/mexico.svg';
+export { ReactComponent as Russia } from './svg/russia.svg';
+export { ReactComponent as UnitedKingdom } from './svg/unitedKingdom.svg';
+export { ReactComponent as Usa } from './svg/usa.svg';

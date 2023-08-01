@@ -1,0 +1,13 @@
+{
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
+  "compilerOptions": {
+    "lib": ["ESNext"],
+  },
+  "extends": "@tvh/react-common/tsconfig.json",
+  "include": ["types", "src/types.d.ts", "src"],
+  "exclude": ["node_modules/**/*", "**/test-setup.ts"]
+}

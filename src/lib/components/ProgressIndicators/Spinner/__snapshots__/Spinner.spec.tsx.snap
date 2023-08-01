@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner Should render correctly: Spinner 1`] = `
+<div
+  class="tss-16l8aab-Spinner-spinnerWrapper"
+>
+  <span
+    class="MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary tss-j8alh2-Spinner-spinner mui-18lrjg1-MuiCircularProgress-root"
+    role="progressbar"
+    style="width: 19px; height: 19px;"
+  >
+    <svg
+      class="MuiCircularProgress-svg mui-1idz92c-MuiCircularProgress-svg"
+      viewBox="22 22 44 44"
+    >
+      <circle
+        class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate mui-176wh8e-MuiCircularProgress-circle"
+        cx="44"
+        cy="44"
+        fill="none"
+        r="18.9"
+        stroke-width="6.2"
+      />
+    </svg>
+  </span>
+</div>
+`;

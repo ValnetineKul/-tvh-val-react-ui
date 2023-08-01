@@ -1,0 +1,6 @@
+{
+  "borderRadius/circle": "100%",
+  "borderRadius/round/100": "4px",
+  "borderRadius/round/150": "10px",
+  "borderRadius/none": "0px"
+}
