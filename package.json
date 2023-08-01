@@ -37,7 +37,6 @@
     "@mui/material": "5.2.4",
     "@mui/styles": "^5.2.1",
     "@svgr/webpack": "^6.5.1",
-    "@tvh/react-common": "1.4.4",
     "classnames": "^2.2.6",
     "country-iso-3-to-2": "^1.1.0",
     "date-fns": "^2.29.3",
